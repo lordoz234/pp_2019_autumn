@@ -132,10 +132,10 @@ TEST(Matrix_sum_MPI, test_on_Identity_matrix_2) {
 }
 
 TEST(Matrix_sum_MPI, test_on_zero_matrix) {
-    std::vector <std::vector<int>> a(100, std::vector <int> (100));
+    std::vector <std::vector<int>> a(101, std::vector <int> (101));
     int rank;
     MPI_Comm_rank(MPI_COMM_WORLD, &rank);
-    int sum = SumOfMatrix(a, 100, 100);
+    int sum = SumOfMatrix(a, 101, 101);
     if (rank == 0) {
         EXPECT_EQ(0, sum);
     }
