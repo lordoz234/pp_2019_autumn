@@ -3,7 +3,7 @@
 #include <iostream>
 #include <cmath>
 
-void my_bcast(void *data, int count, MPI_Datatype datatype, int root,
+void my_bcast_slow(void *data, int count, MPI_Datatype datatype, int root,
                 MPI_Comm communicator) {
     int world_rank;
     MPI_Comm_rank(communicator, &world_rank);
@@ -26,7 +26,7 @@ double loga(double a, double b) {
     return log(a)/log(2);
 }
 
-void my_bcast1(void *data, int count, MPI_Datatype datatype, int root,
+void my_bcast(void *data, int count, MPI_Datatype datatype, int root,
                 MPI_Comm communicator) {
     int world_rank;
     MPI_Comm_rank(communicator, &world_rank);
