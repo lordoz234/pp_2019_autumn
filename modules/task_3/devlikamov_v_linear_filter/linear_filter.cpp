@@ -178,5 +178,12 @@ rgb* linear_filter_with_gauss(int n, int m, int code) {
     }
     MPI_Gatherv(slice, imgRows * imgCols*3, MPI_BYTE,
            result, send_counts, displacements, MPI_BYTE, 0, MPI_COMM_WORLD);
+    if (rank == 0) {
+        delete [] send_counts;
+        delete [] displacements;
+        delete [] rows_per_process;
+        delete [] slice;
+        delete [] result;
+    }
     return result;
 }
