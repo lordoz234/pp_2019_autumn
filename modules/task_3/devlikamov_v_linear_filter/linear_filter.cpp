@@ -115,6 +115,12 @@ rgb* linear_filter_with_gauss(int n, int m, int code) {
     MPI_Comm_rank(MPI_COMM_WORLD, &rank);
     MPI_Comm_size(MPI_COMM_WORLD, &numberOfTasks);
 
+    send_counts = new int[numberOfTasks];
+    displacements = new int[numberOfTasks];
+    rows_per_process = new int[numberOfTasks];
+    source = new rgb[n*m];
+    result = new rgb[n*m];
+
     if (rank == 0) {
         if (code == 0) {
             source = createMatrix(n, m);
@@ -131,9 +137,6 @@ rgb* linear_filter_with_gauss(int n, int m, int code) {
                 result[i*m + j].blue = 0;
             }
         }
-        send_counts = new int[numberOfTasks];
-        displacements = new int[numberOfTasks];
-        rows_per_process = new int[numberOfTasks];
         for (int i = 0; i < numberOfTasks; i++) {
             send_counts[i] = displacements[i] = 0;
             rows_per_process[i] = 0;
@@ -161,6 +164,7 @@ rgb* linear_filter_with_gauss(int n, int m, int code) {
             rows_per_process[std::min(imgRows, numberOfTasks) - 1]*imgCols*3;
         }
     }
+    MPI_Barrier(MPI_COMM_WORLD);
     MPI_Scatter(rows_per_process, 1, MPI_INT, &imgRows, 1, MPI_INT, 0, MPI_COMM_WORLD);
     MPI_Bcast(&imgCols, 1, MPI_INT, 0, MPI_COMM_WORLD);
     MPI_Barrier(MPI_COMM_WORLD);
