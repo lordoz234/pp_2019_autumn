@@ -176,6 +176,7 @@ rgb* linear_filter_with_gauss(int n, int m, int code) {
         slice = gb->GetResult();
         free(gb);
     }
+    MPI_Barrier(MPI_COMM_WORLD);
     MPI_Gatherv(slice, imgRows * imgCols*3, MPI_BYTE,
            result, send_counts, displacements, MPI_BYTE, 0, MPI_COMM_WORLD);
     if (rank == 0) {
@@ -183,7 +184,6 @@ rgb* linear_filter_with_gauss(int n, int m, int code) {
         delete [] displacements;
         delete [] rows_per_process;
         delete [] slice;
-        delete [] result;
     }
     return result;
 }
