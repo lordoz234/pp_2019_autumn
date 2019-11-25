@@ -1,0 +1,2 @@
+/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/ar qc ../../../arch/libdevlikamov_v_linear_filter_mpi_lib.a  CMakeFiles/devlikamov_v_linear_filter_mpi_lib.dir/linear_filter.cpp.o CMakeFiles/devlikamov_v_linear_filter_mpi_lib.dir/main.cpp.o
+/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/ranlib ../../../arch/libdevlikamov_v_linear_filter_mpi_lib.a

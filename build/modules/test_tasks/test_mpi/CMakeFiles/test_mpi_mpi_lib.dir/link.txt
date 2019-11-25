@@ -1,0 +1,2 @@
+/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/ar qc ../../../arch/libtest_mpi_mpi_lib.a  CMakeFiles/test_mpi_mpi_lib.dir/main.cpp.o CMakeFiles/test_mpi_mpi_lib.dir/ops_mpi.cpp.o
+/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/ranlib ../../../arch/libtest_mpi_mpi_lib.a

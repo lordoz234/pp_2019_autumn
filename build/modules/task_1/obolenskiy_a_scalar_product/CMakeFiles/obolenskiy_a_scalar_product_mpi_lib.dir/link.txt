@@ -1,0 +1,2 @@
+/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/ar qc ../../../arch/libobolenskiy_a_scalar_product_mpi_lib.a  CMakeFiles/obolenskiy_a_scalar_product_mpi_lib.dir/main.cpp.o CMakeFiles/obolenskiy_a_scalar_product_mpi_lib.dir/scalar_product.cpp.o
+/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/ranlib ../../../arch/libobolenskiy_a_scalar_product_mpi_lib.a

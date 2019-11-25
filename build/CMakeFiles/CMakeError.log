@@ -1,0 +1,1632 @@
+Detecting C OpenMP failed with the following output:
+Change Dir: /Users/vladislavdevlikamov/desktop/laba/pp_2019_autumn/build/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/usr/bin/make cmTC_a3e9c/fast && /Applications/Xcode.app/Contents/Developer/usr/bin/make -f CMakeFiles/cmTC_a3e9c.dir/build.make CMakeFiles/cmTC_a3e9c.dir/build
+Building C object CMakeFiles/cmTC_a3e9c.dir/OpenMPTryFlag.c.o
+/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc   -Wall -Werror -fopenmp=libomp -v   -o CMakeFiles/cmTC_a3e9c.dir/OpenMPTryFlag.c.o   -c /Users/vladislavdevlikamov/desktop/laba/pp_2019_autumn/build/CMakeFiles/FindOpenMP/OpenMPTryFlag.c
+Apple clang version 11.0.0 (clang-1100.0.33.12)
+Target: x86_64-apple-darwin18.7.0
+Thread model: posix
+InstalledDir: /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin
+Found CUDA installation: /usr/local/cuda, version unknown
+clang: error: unsupported argument 'libomp' to option 'fopenmp='
+make[1]: *** [CMakeFiles/cmTC_a3e9c.dir/OpenMPTryFlag.c.o] Error 1
+make: *** [cmTC_a3e9c/fast] Error 2
+
+
+
+Detecting C OpenMP failed with the following output:
+Change Dir: /Users/vladislavdevlikamov/desktop/laba/pp_2019_autumn/build/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/usr/bin/make cmTC_80adc/fast && /Applications/Xcode.app/Contents/Developer/usr/bin/make -f CMakeFiles/cmTC_80adc.dir/build.make CMakeFiles/cmTC_80adc.dir/build
+Building C object CMakeFiles/cmTC_80adc.dir/OpenMPTryFlag.c.o
+/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc   -Wall -Werror -fopenmp=libiomp5 -v   -o CMakeFiles/cmTC_80adc.dir/OpenMPTryFlag.c.o   -c /Users/vladislavdevlikamov/desktop/laba/pp_2019_autumn/build/CMakeFiles/FindOpenMP/OpenMPTryFlag.c
+Apple clang version 11.0.0 (clang-1100.0.33.12)
+Target: x86_64-apple-darwin18.7.0
+Thread model: posix
+InstalledDir: /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin
+Found CUDA installation: /usr/local/cuda, version unknown
+clang: error: unsupported argument 'libiomp5' to option 'fopenmp='
+make[1]: *** [CMakeFiles/cmTC_80adc.dir/OpenMPTryFlag.c.o] Error 1
+make: *** [cmTC_80adc/fast] Error 2
+
+
+
+Detecting C OpenMP failed with the following output:
+Change Dir: /Users/vladislavdevlikamov/desktop/laba/pp_2019_autumn/build/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/usr/bin/make cmTC_a7c66/fast && /Applications/Xcode.app/Contents/Developer/usr/bin/make -f CMakeFiles/cmTC_a7c66.dir/build.make CMakeFiles/cmTC_a7c66.dir/build
+Building C object CMakeFiles/cmTC_a7c66.dir/OpenMPTryFlag.c.o
+/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc   -Wall -Werror -fopenmp -v   -o CMakeFiles/cmTC_a7c66.dir/OpenMPTryFlag.c.o   -c /Users/vladislavdevlikamov/desktop/laba/pp_2019_autumn/build/CMakeFiles/FindOpenMP/OpenMPTryFlag.c
+Apple clang version 11.0.0 (clang-1100.0.33.12)
+Target: x86_64-apple-darwin18.7.0
+Thread model: posix
+InstalledDir: /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin
+Found CUDA installation: /usr/local/cuda, version unknown
+clang: error: unsupported option '-fopenmp'
+make[1]: *** [CMakeFiles/cmTC_a7c66.dir/OpenMPTryFlag.c.o] Error 1
+make: *** [cmTC_a7c66/fast] Error 2
+
+
+
+Detecting CXX OpenMP failed with the following output:
+Change Dir: /Users/vladislavdevlikamov/desktop/laba/pp_2019_autumn/build/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/usr/bin/make cmTC_a396e/fast && /Applications/Xcode.app/Contents/Developer/usr/bin/make -f CMakeFiles/cmTC_a396e.dir/build.make CMakeFiles/cmTC_a396e.dir/build
+Building CXX object CMakeFiles/cmTC_a396e.dir/OpenMPTryFlag.cpp.o
+/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++    -Wall -Werror -fopenmp=libomp -v   -o CMakeFiles/cmTC_a396e.dir/OpenMPTryFlag.cpp.o -c /Users/vladislavdevlikamov/desktop/laba/pp_2019_autumn/build/CMakeFiles/FindOpenMP/OpenMPTryFlag.cpp
+Apple clang version 11.0.0 (clang-1100.0.33.12)
+Target: x86_64-apple-darwin18.7.0
+Thread model: posix
+InstalledDir: /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin
+Found CUDA installation: /usr/local/cuda, version unknown
+clang: error: unsupported argument 'libomp' to option 'fopenmp='
+make[1]: *** [CMakeFiles/cmTC_a396e.dir/OpenMPTryFlag.cpp.o] Error 1
+make: *** [cmTC_a396e/fast] Error 2
+
+
+
+Detecting CXX OpenMP failed with the following output:
+Change Dir: /Users/vladislavdevlikamov/desktop/laba/pp_2019_autumn/build/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/usr/bin/make cmTC_6291c/fast && /Applications/Xcode.app/Contents/Developer/usr/bin/make -f CMakeFiles/cmTC_6291c.dir/build.make CMakeFiles/cmTC_6291c.dir/build
+Building CXX object CMakeFiles/cmTC_6291c.dir/OpenMPTryFlag.cpp.o
+/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++    -Wall -Werror -fopenmp=libiomp5 -v   -o CMakeFiles/cmTC_6291c.dir/OpenMPTryFlag.cpp.o -c /Users/vladislavdevlikamov/desktop/laba/pp_2019_autumn/build/CMakeFiles/FindOpenMP/OpenMPTryFlag.cpp
+Apple clang version 11.0.0 (clang-1100.0.33.12)
+Target: x86_64-apple-darwin18.7.0
+Thread model: posix
+InstalledDir: /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin
+Found CUDA installation: /usr/local/cuda, version unknown
+clang: error: unsupported argument 'libiomp5' to option 'fopenmp='
+make[1]: *** [CMakeFiles/cmTC_6291c.dir/OpenMPTryFlag.cpp.o] Error 1
+make: *** [cmTC_6291c/fast] Error 2
+
+
+
+Detecting CXX OpenMP failed with the following output:
+Change Dir: /Users/vladislavdevlikamov/desktop/laba/pp_2019_autumn/build/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/usr/bin/make cmTC_5cfff/fast && /Applications/Xcode.app/Contents/Developer/usr/bin/make -f CMakeFiles/cmTC_5cfff.dir/build.make CMakeFiles/cmTC_5cfff.dir/build
+Building CXX object CMakeFiles/cmTC_5cfff.dir/OpenMPTryFlag.cpp.o
+/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++    -Wall -Werror -fopenmp -v   -o CMakeFiles/cmTC_5cfff.dir/OpenMPTryFlag.cpp.o -c /Users/vladislavdevlikamov/desktop/laba/pp_2019_autumn/build/CMakeFiles/FindOpenMP/OpenMPTryFlag.cpp
+Apple clang version 11.0.0 (clang-1100.0.33.12)
+Target: x86_64-apple-darwin18.7.0
+Thread model: posix
+InstalledDir: /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin
+Found CUDA installation: /usr/local/cuda, version unknown
+clang: error: unsupported option '-fopenmp'
+make[1]: *** [CMakeFiles/cmTC_5cfff.dir/OpenMPTryFlag.cpp.o] Error 1
+make: *** [cmTC_5cfff/fast] Error 2
+
+
+
+Detecting C OpenMP failed with the following output:
+Change Dir: /Users/vladislavdevlikamov/desktop/laba/pp_2019_autumn/build/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/usr/bin/make cmTC_c8d95/fast && /Applications/Xcode.app/Contents/Developer/usr/bin/make -f CMakeFiles/cmTC_c8d95.dir/build.make CMakeFiles/cmTC_c8d95.dir/build
+Building C object CMakeFiles/cmTC_c8d95.dir/OpenMPTryFlag.c.o
+/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc   -Wall -Werror -fopenmp=libomp -v   -o CMakeFiles/cmTC_c8d95.dir/OpenMPTryFlag.c.o   -c /Users/vladislavdevlikamov/desktop/laba/pp_2019_autumn/build/CMakeFiles/FindOpenMP/OpenMPTryFlag.c
+Apple clang version 11.0.0 (clang-1100.0.33.12)
+Target: x86_64-apple-darwin18.7.0
+Thread model: posix
+InstalledDir: /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin
+Found CUDA installation: /usr/local/cuda, version unknown
+clang: error: unsupported argument 'libomp' to option 'fopenmp='
+make[2]: *** [CMakeFiles/cmTC_c8d95.dir/OpenMPTryFlag.c.o] Error 1
+make[1]: *** [cmTC_c8d95/fast] Error 2
+
+
+
+Detecting C OpenMP failed with the following output:
+Change Dir: /Users/vladislavdevlikamov/desktop/laba/pp_2019_autumn/build/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/usr/bin/make cmTC_11105/fast && /Applications/Xcode.app/Contents/Developer/usr/bin/make -f CMakeFiles/cmTC_11105.dir/build.make CMakeFiles/cmTC_11105.dir/build
+Building C object CMakeFiles/cmTC_11105.dir/OpenMPTryFlag.c.o
+/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc   -Wall -Werror -fopenmp=libiomp5 -v   -o CMakeFiles/cmTC_11105.dir/OpenMPTryFlag.c.o   -c /Users/vladislavdevlikamov/desktop/laba/pp_2019_autumn/build/CMakeFiles/FindOpenMP/OpenMPTryFlag.c
+Apple clang version 11.0.0 (clang-1100.0.33.12)
+Target: x86_64-apple-darwin18.7.0
+Thread model: posix
+InstalledDir: /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin
+Found CUDA installation: /usr/local/cuda, version unknown
+clang: error: unsupported argument 'libiomp5' to option 'fopenmp='
+make[2]: *** [CMakeFiles/cmTC_11105.dir/OpenMPTryFlag.c.o] Error 1
+make[1]: *** [cmTC_11105/fast] Error 2
+
+
+
+Detecting C OpenMP failed with the following output:
+Change Dir: /Users/vladislavdevlikamov/desktop/laba/pp_2019_autumn/build/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/usr/bin/make cmTC_f9a36/fast && /Applications/Xcode.app/Contents/Developer/usr/bin/make -f CMakeFiles/cmTC_f9a36.dir/build.make CMakeFiles/cmTC_f9a36.dir/build
+Building C object CMakeFiles/cmTC_f9a36.dir/OpenMPTryFlag.c.o
+/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc   -Wall -Werror -fopenmp -v   -o CMakeFiles/cmTC_f9a36.dir/OpenMPTryFlag.c.o   -c /Users/vladislavdevlikamov/desktop/laba/pp_2019_autumn/build/CMakeFiles/FindOpenMP/OpenMPTryFlag.c
+Apple clang version 11.0.0 (clang-1100.0.33.12)
+Target: x86_64-apple-darwin18.7.0
+Thread model: posix
+InstalledDir: /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin
+Found CUDA installation: /usr/local/cuda, version unknown
+clang: error: unsupported option '-fopenmp'
+make[2]: *** [CMakeFiles/cmTC_f9a36.dir/OpenMPTryFlag.c.o] Error 1
+make[1]: *** [cmTC_f9a36/fast] Error 2
+
+
+
+Detecting CXX OpenMP failed with the following output:
+Change Dir: /Users/vladislavdevlikamov/desktop/laba/pp_2019_autumn/build/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/usr/bin/make cmTC_73458/fast && /Applications/Xcode.app/Contents/Developer/usr/bin/make -f CMakeFiles/cmTC_73458.dir/build.make CMakeFiles/cmTC_73458.dir/build
+Building CXX object CMakeFiles/cmTC_73458.dir/OpenMPTryFlag.cpp.o
+/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++    -Wall -Werror -fopenmp=libomp -v   -o CMakeFiles/cmTC_73458.dir/OpenMPTryFlag.cpp.o -c /Users/vladislavdevlikamov/desktop/laba/pp_2019_autumn/build/CMakeFiles/FindOpenMP/OpenMPTryFlag.cpp
+Apple clang version 11.0.0 (clang-1100.0.33.12)
+Target: x86_64-apple-darwin18.7.0
+Thread model: posix
+InstalledDir: /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin
+Found CUDA installation: /usr/local/cuda, version unknown
+clang: error: unsupported argument 'libomp' to option 'fopenmp='
+make[2]: *** [CMakeFiles/cmTC_73458.dir/OpenMPTryFlag.cpp.o] Error 1
+make[1]: *** [cmTC_73458/fast] Error 2
+
+
+
+Detecting CXX OpenMP failed with the following output:
+Change Dir: /Users/vladislavdevlikamov/desktop/laba/pp_2019_autumn/build/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/usr/bin/make cmTC_03b6f/fast && /Applications/Xcode.app/Contents/Developer/usr/bin/make -f CMakeFiles/cmTC_03b6f.dir/build.make CMakeFiles/cmTC_03b6f.dir/build
+Building CXX object CMakeFiles/cmTC_03b6f.dir/OpenMPTryFlag.cpp.o
+/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++    -Wall -Werror -fopenmp=libiomp5 -v   -o CMakeFiles/cmTC_03b6f.dir/OpenMPTryFlag.cpp.o -c /Users/vladislavdevlikamov/desktop/laba/pp_2019_autumn/build/CMakeFiles/FindOpenMP/OpenMPTryFlag.cpp
+Apple clang version 11.0.0 (clang-1100.0.33.12)
+Target: x86_64-apple-darwin18.7.0
+Thread model: posix
+InstalledDir: /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin
+Found CUDA installation: /usr/local/cuda, version unknown
+clang: error: unsupported argument 'libiomp5' to option 'fopenmp='
+make[2]: *** [CMakeFiles/cmTC_03b6f.dir/OpenMPTryFlag.cpp.o] Error 1
+make[1]: *** [cmTC_03b6f/fast] Error 2
+
+
+
+Detecting CXX OpenMP failed with the following output:
+Change Dir: /Users/vladislavdevlikamov/desktop/laba/pp_2019_autumn/build/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/usr/bin/make cmTC_908fa/fast && /Applications/Xcode.app/Contents/Developer/usr/bin/make -f CMakeFiles/cmTC_908fa.dir/build.make CMakeFiles/cmTC_908fa.dir/build
+Building CXX object CMakeFiles/cmTC_908fa.dir/OpenMPTryFlag.cpp.o
+/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++    -Wall -Werror -fopenmp -v   -o CMakeFiles/cmTC_908fa.dir/OpenMPTryFlag.cpp.o -c /Users/vladislavdevlikamov/desktop/laba/pp_2019_autumn/build/CMakeFiles/FindOpenMP/OpenMPTryFlag.cpp
+Apple clang version 11.0.0 (clang-1100.0.33.12)
+Target: x86_64-apple-darwin18.7.0
+Thread model: posix
+InstalledDir: /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin
+Found CUDA installation: /usr/local/cuda, version unknown
+clang: error: unsupported option '-fopenmp'
+make[2]: *** [CMakeFiles/cmTC_908fa.dir/OpenMPTryFlag.cpp.o] Error 1
+make[1]: *** [cmTC_908fa/fast] Error 2
+
+
+
+Detecting C OpenMP failed with the following output:
+Change Dir: /Users/vladislavdevlikamov/desktop/laba/pp_2019_autumn/build/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/usr/bin/make cmTC_b4509/fast && /Applications/Xcode.app/Contents/Developer/usr/bin/make -f CMakeFiles/cmTC_b4509.dir/build.make CMakeFiles/cmTC_b4509.dir/build
+Building C object CMakeFiles/cmTC_b4509.dir/OpenMPTryFlag.c.o
+/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc   -Wall -Werror -fopenmp=libomp -v   -o CMakeFiles/cmTC_b4509.dir/OpenMPTryFlag.c.o   -c /Users/vladislavdevlikamov/desktop/laba/pp_2019_autumn/build/CMakeFiles/FindOpenMP/OpenMPTryFlag.c
+Apple clang version 11.0.0 (clang-1100.0.33.12)
+Target: x86_64-apple-darwin18.7.0
+Thread model: posix
+InstalledDir: /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin
+Found CUDA installation: /usr/local/cuda, version unknown
+clang: error: unsupported argument 'libomp' to option 'fopenmp='
+make[2]: *** [CMakeFiles/cmTC_b4509.dir/OpenMPTryFlag.c.o] Error 1
+make[1]: *** [cmTC_b4509/fast] Error 2
+
+
+
+Detecting C OpenMP failed with the following output:
+Change Dir: /Users/vladislavdevlikamov/desktop/laba/pp_2019_autumn/build/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/usr/bin/make cmTC_e3334/fast && /Applications/Xcode.app/Contents/Developer/usr/bin/make -f CMakeFiles/cmTC_e3334.dir/build.make CMakeFiles/cmTC_e3334.dir/build
+Building C object CMakeFiles/cmTC_e3334.dir/OpenMPTryFlag.c.o
+/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc   -Wall -Werror -fopenmp=libiomp5 -v   -o CMakeFiles/cmTC_e3334.dir/OpenMPTryFlag.c.o   -c /Users/vladislavdevlikamov/desktop/laba/pp_2019_autumn/build/CMakeFiles/FindOpenMP/OpenMPTryFlag.c
+Apple clang version 11.0.0 (clang-1100.0.33.12)
+Target: x86_64-apple-darwin18.7.0
+Thread model: posix
+InstalledDir: /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin
+Found CUDA installation: /usr/local/cuda, version unknown
+clang: error: unsupported argument 'libiomp5' to option 'fopenmp='
+make[2]: *** [CMakeFiles/cmTC_e3334.dir/OpenMPTryFlag.c.o] Error 1
+make[1]: *** [cmTC_e3334/fast] Error 2
+
+
+
+Detecting C OpenMP failed with the following output:
+Change Dir: /Users/vladislavdevlikamov/desktop/laba/pp_2019_autumn/build/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/usr/bin/make cmTC_10ec8/fast && /Applications/Xcode.app/Contents/Developer/usr/bin/make -f CMakeFiles/cmTC_10ec8.dir/build.make CMakeFiles/cmTC_10ec8.dir/build
+Building C object CMakeFiles/cmTC_10ec8.dir/OpenMPTryFlag.c.o
+/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc   -Wall -Werror -fopenmp -v   -o CMakeFiles/cmTC_10ec8.dir/OpenMPTryFlag.c.o   -c /Users/vladislavdevlikamov/desktop/laba/pp_2019_autumn/build/CMakeFiles/FindOpenMP/OpenMPTryFlag.c
+Apple clang version 11.0.0 (clang-1100.0.33.12)
+Target: x86_64-apple-darwin18.7.0
+Thread model: posix
+InstalledDir: /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin
+Found CUDA installation: /usr/local/cuda, version unknown
+clang: error: unsupported option '-fopenmp'
+make[2]: *** [CMakeFiles/cmTC_10ec8.dir/OpenMPTryFlag.c.o] Error 1
+make[1]: *** [cmTC_10ec8/fast] Error 2
+
+
+
+Detecting CXX OpenMP failed with the following output:
+Change Dir: /Users/vladislavdevlikamov/desktop/laba/pp_2019_autumn/build/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/usr/bin/make cmTC_bda46/fast && /Applications/Xcode.app/Contents/Developer/usr/bin/make -f CMakeFiles/cmTC_bda46.dir/build.make CMakeFiles/cmTC_bda46.dir/build
+Building CXX object CMakeFiles/cmTC_bda46.dir/OpenMPTryFlag.cpp.o
+/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++    -Wall -Werror -fopenmp=libomp -v   -o CMakeFiles/cmTC_bda46.dir/OpenMPTryFlag.cpp.o -c /Users/vladislavdevlikamov/desktop/laba/pp_2019_autumn/build/CMakeFiles/FindOpenMP/OpenMPTryFlag.cpp
+Apple clang version 11.0.0 (clang-1100.0.33.12)
+Target: x86_64-apple-darwin18.7.0
+Thread model: posix
+InstalledDir: /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin
+Found CUDA installation: /usr/local/cuda, version unknown
+clang: error: unsupported argument 'libomp' to option 'fopenmp='
+make[2]: *** [CMakeFiles/cmTC_bda46.dir/OpenMPTryFlag.cpp.o] Error 1
+make[1]: *** [cmTC_bda46/fast] Error 2
+
+
+
+Detecting CXX OpenMP failed with the following output:
+Change Dir: /Users/vladislavdevlikamov/desktop/laba/pp_2019_autumn/build/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/usr/bin/make cmTC_d0c90/fast && /Applications/Xcode.app/Contents/Developer/usr/bin/make -f CMakeFiles/cmTC_d0c90.dir/build.make CMakeFiles/cmTC_d0c90.dir/build
+Building CXX object CMakeFiles/cmTC_d0c90.dir/OpenMPTryFlag.cpp.o
+/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++    -Wall -Werror -fopenmp=libiomp5 -v   -o CMakeFiles/cmTC_d0c90.dir/OpenMPTryFlag.cpp.o -c /Users/vladislavdevlikamov/desktop/laba/pp_2019_autumn/build/CMakeFiles/FindOpenMP/OpenMPTryFlag.cpp
+Apple clang version 11.0.0 (clang-1100.0.33.12)
+Target: x86_64-apple-darwin18.7.0
+Thread model: posix
+InstalledDir: /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin
+Found CUDA installation: /usr/local/cuda, version unknown
+clang: error: unsupported argument 'libiomp5' to option 'fopenmp='
+make[2]: *** [CMakeFiles/cmTC_d0c90.dir/OpenMPTryFlag.cpp.o] Error 1
+make[1]: *** [cmTC_d0c90/fast] Error 2
+
+
+
+Detecting CXX OpenMP failed with the following output:
+Change Dir: /Users/vladislavdevlikamov/desktop/laba/pp_2019_autumn/build/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/usr/bin/make cmTC_4752a/fast && /Applications/Xcode.app/Contents/Developer/usr/bin/make -f CMakeFiles/cmTC_4752a.dir/build.make CMakeFiles/cmTC_4752a.dir/build
+Building CXX object CMakeFiles/cmTC_4752a.dir/OpenMPTryFlag.cpp.o
+/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++    -Wall -Werror -fopenmp -v   -o CMakeFiles/cmTC_4752a.dir/OpenMPTryFlag.cpp.o -c /Users/vladislavdevlikamov/desktop/laba/pp_2019_autumn/build/CMakeFiles/FindOpenMP/OpenMPTryFlag.cpp
+Apple clang version 11.0.0 (clang-1100.0.33.12)
+Target: x86_64-apple-darwin18.7.0
+Thread model: posix
+InstalledDir: /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin
+Found CUDA installation: /usr/local/cuda, version unknown
+clang: error: unsupported option '-fopenmp'
+make[2]: *** [CMakeFiles/cmTC_4752a.dir/OpenMPTryFlag.cpp.o] Error 1
+make[1]: *** [cmTC_4752a/fast] Error 2
+
+
+
+Detecting C OpenMP failed with the following output:
+Change Dir: /Users/vladislavdevlikamov/desktop/laba/pp_2019_autumn/build/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/usr/bin/make cmTC_0ccbc/fast && /Applications/Xcode.app/Contents/Developer/usr/bin/make -f CMakeFiles/cmTC_0ccbc.dir/build.make CMakeFiles/cmTC_0ccbc.dir/build
+Building C object CMakeFiles/cmTC_0ccbc.dir/OpenMPTryFlag.c.o
+/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc   -Wall -Werror -fopenmp=libomp -v   -o CMakeFiles/cmTC_0ccbc.dir/OpenMPTryFlag.c.o   -c /Users/vladislavdevlikamov/desktop/laba/pp_2019_autumn/build/CMakeFiles/FindOpenMP/OpenMPTryFlag.c
+Apple clang version 11.0.0 (clang-1100.0.33.12)
+Target: x86_64-apple-darwin18.7.0
+Thread model: posix
+InstalledDir: /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin
+Found CUDA installation: /usr/local/cuda, version unknown
+clang: error: unsupported argument 'libomp' to option 'fopenmp='
+make[2]: *** [CMakeFiles/cmTC_0ccbc.dir/OpenMPTryFlag.c.o] Error 1
+make[1]: *** [cmTC_0ccbc/fast] Error 2
+
+
+
+Detecting C OpenMP failed with the following output:
+Change Dir: /Users/vladislavdevlikamov/desktop/laba/pp_2019_autumn/build/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/usr/bin/make cmTC_71d16/fast && /Applications/Xcode.app/Contents/Developer/usr/bin/make -f CMakeFiles/cmTC_71d16.dir/build.make CMakeFiles/cmTC_71d16.dir/build
+Building C object CMakeFiles/cmTC_71d16.dir/OpenMPTryFlag.c.o
+/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc   -Wall -Werror -fopenmp=libiomp5 -v   -o CMakeFiles/cmTC_71d16.dir/OpenMPTryFlag.c.o   -c /Users/vladislavdevlikamov/desktop/laba/pp_2019_autumn/build/CMakeFiles/FindOpenMP/OpenMPTryFlag.c
+Apple clang version 11.0.0 (clang-1100.0.33.12)
+Target: x86_64-apple-darwin18.7.0
+Thread model: posix
+InstalledDir: /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin
+Found CUDA installation: /usr/local/cuda, version unknown
+clang: error: unsupported argument 'libiomp5' to option 'fopenmp='
+make[2]: *** [CMakeFiles/cmTC_71d16.dir/OpenMPTryFlag.c.o] Error 1
+make[1]: *** [cmTC_71d16/fast] Error 2
+
+
+
+Detecting C OpenMP failed with the following output:
+Change Dir: /Users/vladislavdevlikamov/desktop/laba/pp_2019_autumn/build/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/usr/bin/make cmTC_f2980/fast && /Applications/Xcode.app/Contents/Developer/usr/bin/make -f CMakeFiles/cmTC_f2980.dir/build.make CMakeFiles/cmTC_f2980.dir/build
+Building C object CMakeFiles/cmTC_f2980.dir/OpenMPTryFlag.c.o
+/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc   -Wall -Werror -fopenmp -v   -o CMakeFiles/cmTC_f2980.dir/OpenMPTryFlag.c.o   -c /Users/vladislavdevlikamov/desktop/laba/pp_2019_autumn/build/CMakeFiles/FindOpenMP/OpenMPTryFlag.c
+Apple clang version 11.0.0 (clang-1100.0.33.12)
+Target: x86_64-apple-darwin18.7.0
+Thread model: posix
+InstalledDir: /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin
+Found CUDA installation: /usr/local/cuda, version unknown
+clang: error: unsupported option '-fopenmp'
+make[2]: *** [CMakeFiles/cmTC_f2980.dir/OpenMPTryFlag.c.o] Error 1
+make[1]: *** [cmTC_f2980/fast] Error 2
+
+
+
+Detecting CXX OpenMP failed with the following output:
+Change Dir: /Users/vladislavdevlikamov/desktop/laba/pp_2019_autumn/build/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/usr/bin/make cmTC_ac1b5/fast && /Applications/Xcode.app/Contents/Developer/usr/bin/make -f CMakeFiles/cmTC_ac1b5.dir/build.make CMakeFiles/cmTC_ac1b5.dir/build
+Building CXX object CMakeFiles/cmTC_ac1b5.dir/OpenMPTryFlag.cpp.o
+/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++    -Wall -Werror -fopenmp=libomp -v   -o CMakeFiles/cmTC_ac1b5.dir/OpenMPTryFlag.cpp.o -c /Users/vladislavdevlikamov/desktop/laba/pp_2019_autumn/build/CMakeFiles/FindOpenMP/OpenMPTryFlag.cpp
+Apple clang version 11.0.0 (clang-1100.0.33.12)
+Target: x86_64-apple-darwin18.7.0
+Thread model: posix
+InstalledDir: /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin
+Found CUDA installation: /usr/local/cuda, version unknown
+clang: error: unsupported argument 'libomp' to option 'fopenmp='
+make[2]: *** [CMakeFiles/cmTC_ac1b5.dir/OpenMPTryFlag.cpp.o] Error 1
+make[1]: *** [cmTC_ac1b5/fast] Error 2
+
+
+
+Detecting CXX OpenMP failed with the following output:
+Change Dir: /Users/vladislavdevlikamov/desktop/laba/pp_2019_autumn/build/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/usr/bin/make cmTC_94238/fast && /Applications/Xcode.app/Contents/Developer/usr/bin/make -f CMakeFiles/cmTC_94238.dir/build.make CMakeFiles/cmTC_94238.dir/build
+Building CXX object CMakeFiles/cmTC_94238.dir/OpenMPTryFlag.cpp.o
+/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++    -Wall -Werror -fopenmp=libiomp5 -v   -o CMakeFiles/cmTC_94238.dir/OpenMPTryFlag.cpp.o -c /Users/vladislavdevlikamov/desktop/laba/pp_2019_autumn/build/CMakeFiles/FindOpenMP/OpenMPTryFlag.cpp
+Apple clang version 11.0.0 (clang-1100.0.33.12)
+Target: x86_64-apple-darwin18.7.0
+Thread model: posix
+InstalledDir: /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin
+Found CUDA installation: /usr/local/cuda, version unknown
+clang: error: unsupported argument 'libiomp5' to option 'fopenmp='
+make[2]: *** [CMakeFiles/cmTC_94238.dir/OpenMPTryFlag.cpp.o] Error 1
+make[1]: *** [cmTC_94238/fast] Error 2
+
+
+
+Detecting CXX OpenMP failed with the following output:
+Change Dir: /Users/vladislavdevlikamov/desktop/laba/pp_2019_autumn/build/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/usr/bin/make cmTC_e3399/fast && /Applications/Xcode.app/Contents/Developer/usr/bin/make -f CMakeFiles/cmTC_e3399.dir/build.make CMakeFiles/cmTC_e3399.dir/build
+Building CXX object CMakeFiles/cmTC_e3399.dir/OpenMPTryFlag.cpp.o
+/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++    -Wall -Werror -fopenmp -v   -o CMakeFiles/cmTC_e3399.dir/OpenMPTryFlag.cpp.o -c /Users/vladislavdevlikamov/desktop/laba/pp_2019_autumn/build/CMakeFiles/FindOpenMP/OpenMPTryFlag.cpp
+Apple clang version 11.0.0 (clang-1100.0.33.12)
+Target: x86_64-apple-darwin18.7.0
+Thread model: posix
+InstalledDir: /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin
+Found CUDA installation: /usr/local/cuda, version unknown
+clang: error: unsupported option '-fopenmp'
+make[2]: *** [CMakeFiles/cmTC_e3399.dir/OpenMPTryFlag.cpp.o] Error 1
+make[1]: *** [cmTC_e3399/fast] Error 2
+
+
+
+Detecting C OpenMP failed with the following output:
+Change Dir: /Users/vladislavdevlikamov/desktop/laba/pp_2019_autumn/build/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/usr/bin/make cmTC_d08b7/fast && /Applications/Xcode.app/Contents/Developer/usr/bin/make -f CMakeFiles/cmTC_d08b7.dir/build.make CMakeFiles/cmTC_d08b7.dir/build
+Building C object CMakeFiles/cmTC_d08b7.dir/OpenMPTryFlag.c.o
+/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc   -fopenmp=libomp -v   -o CMakeFiles/cmTC_d08b7.dir/OpenMPTryFlag.c.o   -c /Users/vladislavdevlikamov/desktop/laba/pp_2019_autumn/build/CMakeFiles/FindOpenMP/OpenMPTryFlag.c
+Apple clang version 11.0.0 (clang-1100.0.33.12)
+Target: x86_64-apple-darwin18.7.0
+Thread model: posix
+InstalledDir: /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin
+Found CUDA installation: /usr/local/cuda, version unknown
+clang: error: unsupported argument 'libomp' to option 'fopenmp='
+make[2]: *** [CMakeFiles/cmTC_d08b7.dir/OpenMPTryFlag.c.o] Error 1
+make[1]: *** [cmTC_d08b7/fast] Error 2
+
+
+
+Detecting C OpenMP failed with the following output:
+Change Dir: /Users/vladislavdevlikamov/desktop/laba/pp_2019_autumn/build/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/usr/bin/make cmTC_e3306/fast && /Applications/Xcode.app/Contents/Developer/usr/bin/make -f CMakeFiles/cmTC_e3306.dir/build.make CMakeFiles/cmTC_e3306.dir/build
+Building C object CMakeFiles/cmTC_e3306.dir/OpenMPTryFlag.c.o
+/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc   -fopenmp=libiomp5 -v   -o CMakeFiles/cmTC_e3306.dir/OpenMPTryFlag.c.o   -c /Users/vladislavdevlikamov/desktop/laba/pp_2019_autumn/build/CMakeFiles/FindOpenMP/OpenMPTryFlag.c
+Apple clang version 11.0.0 (clang-1100.0.33.12)
+Target: x86_64-apple-darwin18.7.0
+Thread model: posix
+InstalledDir: /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin
+Found CUDA installation: /usr/local/cuda, version unknown
+clang: error: unsupported argument 'libiomp5' to option 'fopenmp='
+make[2]: *** [CMakeFiles/cmTC_e3306.dir/OpenMPTryFlag.c.o] Error 1
+make[1]: *** [cmTC_e3306/fast] Error 2
+
+
+
+Detecting C OpenMP failed with the following output:
+Change Dir: /Users/vladislavdevlikamov/desktop/laba/pp_2019_autumn/build/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/usr/bin/make cmTC_a41cc/fast && /Applications/Xcode.app/Contents/Developer/usr/bin/make -f CMakeFiles/cmTC_a41cc.dir/build.make CMakeFiles/cmTC_a41cc.dir/build
+Building C object CMakeFiles/cmTC_a41cc.dir/OpenMPTryFlag.c.o
+/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc   -fopenmp -v   -o CMakeFiles/cmTC_a41cc.dir/OpenMPTryFlag.c.o   -c /Users/vladislavdevlikamov/desktop/laba/pp_2019_autumn/build/CMakeFiles/FindOpenMP/OpenMPTryFlag.c
+Apple clang version 11.0.0 (clang-1100.0.33.12)
+Target: x86_64-apple-darwin18.7.0
+Thread model: posix
+InstalledDir: /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin
+Found CUDA installation: /usr/local/cuda, version unknown
+clang: error: unsupported option '-fopenmp'
+make[2]: *** [CMakeFiles/cmTC_a41cc.dir/OpenMPTryFlag.c.o] Error 1
+make[1]: *** [cmTC_a41cc/fast] Error 2
+
+
+
+Detecting CXX OpenMP failed with the following output:
+Change Dir: /Users/vladislavdevlikamov/desktop/laba/pp_2019_autumn/build/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/usr/bin/make cmTC_95bf2/fast && /Applications/Xcode.app/Contents/Developer/usr/bin/make -f CMakeFiles/cmTC_95bf2.dir/build.make CMakeFiles/cmTC_95bf2.dir/build
+Building CXX object CMakeFiles/cmTC_95bf2.dir/OpenMPTryFlag.cpp.o
+/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++    -fopenmp=libomp -v   -o CMakeFiles/cmTC_95bf2.dir/OpenMPTryFlag.cpp.o -c /Users/vladislavdevlikamov/desktop/laba/pp_2019_autumn/build/CMakeFiles/FindOpenMP/OpenMPTryFlag.cpp
+Apple clang version 11.0.0 (clang-1100.0.33.12)
+Target: x86_64-apple-darwin18.7.0
+Thread model: posix
+InstalledDir: /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin
+Found CUDA installation: /usr/local/cuda, version unknown
+clang: error: unsupported argument 'libomp' to option 'fopenmp='
+make[2]: *** [CMakeFiles/cmTC_95bf2.dir/OpenMPTryFlag.cpp.o] Error 1
+make[1]: *** [cmTC_95bf2/fast] Error 2
+
+
+
+Detecting CXX OpenMP failed with the following output:
+Change Dir: /Users/vladislavdevlikamov/desktop/laba/pp_2019_autumn/build/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/usr/bin/make cmTC_9c2dc/fast && /Applications/Xcode.app/Contents/Developer/usr/bin/make -f CMakeFiles/cmTC_9c2dc.dir/build.make CMakeFiles/cmTC_9c2dc.dir/build
+Building CXX object CMakeFiles/cmTC_9c2dc.dir/OpenMPTryFlag.cpp.o
+/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++    -fopenmp=libiomp5 -v   -o CMakeFiles/cmTC_9c2dc.dir/OpenMPTryFlag.cpp.o -c /Users/vladislavdevlikamov/desktop/laba/pp_2019_autumn/build/CMakeFiles/FindOpenMP/OpenMPTryFlag.cpp
+Apple clang version 11.0.0 (clang-1100.0.33.12)
+Target: x86_64-apple-darwin18.7.0
+Thread model: posix
+InstalledDir: /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin
+Found CUDA installation: /usr/local/cuda, version unknown
+clang: error: unsupported argument 'libiomp5' to option 'fopenmp='
+make[2]: *** [CMakeFiles/cmTC_9c2dc.dir/OpenMPTryFlag.cpp.o] Error 1
+make[1]: *** [cmTC_9c2dc/fast] Error 2
+
+
+
+Detecting CXX OpenMP failed with the following output:
+Change Dir: /Users/vladislavdevlikamov/desktop/laba/pp_2019_autumn/build/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/usr/bin/make cmTC_b5bca/fast && /Applications/Xcode.app/Contents/Developer/usr/bin/make -f CMakeFiles/cmTC_b5bca.dir/build.make CMakeFiles/cmTC_b5bca.dir/build
+Building CXX object CMakeFiles/cmTC_b5bca.dir/OpenMPTryFlag.cpp.o
+/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++    -fopenmp -v   -o CMakeFiles/cmTC_b5bca.dir/OpenMPTryFlag.cpp.o -c /Users/vladislavdevlikamov/desktop/laba/pp_2019_autumn/build/CMakeFiles/FindOpenMP/OpenMPTryFlag.cpp
+Apple clang version 11.0.0 (clang-1100.0.33.12)
+Target: x86_64-apple-darwin18.7.0
+Thread model: posix
+InstalledDir: /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin
+Found CUDA installation: /usr/local/cuda, version unknown
+clang: error: unsupported option '-fopenmp'
+make[2]: *** [CMakeFiles/cmTC_b5bca.dir/OpenMPTryFlag.cpp.o] Error 1
+make[1]: *** [cmTC_b5bca/fast] Error 2
+
+
+
+Detecting C OpenMP failed with the following output:
+Change Dir: /Users/vladislavdevlikamov/desktop/laba/pp_2019_autumn/build/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/usr/bin/make cmTC_7b220/fast && /Applications/Xcode.app/Contents/Developer/usr/bin/make -f CMakeFiles/cmTC_7b220.dir/build.make CMakeFiles/cmTC_7b220.dir/build
+Building C object CMakeFiles/cmTC_7b220.dir/OpenMPTryFlag.c.o
+/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc   -Wall -Werror -fopenmp=libomp -v   -o CMakeFiles/cmTC_7b220.dir/OpenMPTryFlag.c.o   -c /Users/vladislavdevlikamov/desktop/laba/pp_2019_autumn/build/CMakeFiles/FindOpenMP/OpenMPTryFlag.c
+Apple clang version 11.0.0 (clang-1100.0.33.12)
+Target: x86_64-apple-darwin18.7.0
+Thread model: posix
+InstalledDir: /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin
+Found CUDA installation: /usr/local/cuda, version unknown
+clang: error: unsupported argument 'libomp' to option 'fopenmp='
+make[2]: *** [CMakeFiles/cmTC_7b220.dir/OpenMPTryFlag.c.o] Error 1
+make[1]: *** [cmTC_7b220/fast] Error 2
+
+
+
+Detecting C OpenMP failed with the following output:
+Change Dir: /Users/vladislavdevlikamov/desktop/laba/pp_2019_autumn/build/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/usr/bin/make cmTC_c4ff2/fast && /Applications/Xcode.app/Contents/Developer/usr/bin/make -f CMakeFiles/cmTC_c4ff2.dir/build.make CMakeFiles/cmTC_c4ff2.dir/build
+Building C object CMakeFiles/cmTC_c4ff2.dir/OpenMPTryFlag.c.o
+/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc   -Wall -Werror -fopenmp=libiomp5 -v   -o CMakeFiles/cmTC_c4ff2.dir/OpenMPTryFlag.c.o   -c /Users/vladislavdevlikamov/desktop/laba/pp_2019_autumn/build/CMakeFiles/FindOpenMP/OpenMPTryFlag.c
+Apple clang version 11.0.0 (clang-1100.0.33.12)
+Target: x86_64-apple-darwin18.7.0
+Thread model: posix
+InstalledDir: /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin
+Found CUDA installation: /usr/local/cuda, version unknown
+clang: error: unsupported argument 'libiomp5' to option 'fopenmp='
+make[2]: *** [CMakeFiles/cmTC_c4ff2.dir/OpenMPTryFlag.c.o] Error 1
+make[1]: *** [cmTC_c4ff2/fast] Error 2
+
+
+
+Detecting C OpenMP failed with the following output:
+Change Dir: /Users/vladislavdevlikamov/desktop/laba/pp_2019_autumn/build/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/usr/bin/make cmTC_b6daa/fast && /Applications/Xcode.app/Contents/Developer/usr/bin/make -f CMakeFiles/cmTC_b6daa.dir/build.make CMakeFiles/cmTC_b6daa.dir/build
+Building C object CMakeFiles/cmTC_b6daa.dir/OpenMPTryFlag.c.o
+/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc   -Wall -Werror -fopenmp -v   -o CMakeFiles/cmTC_b6daa.dir/OpenMPTryFlag.c.o   -c /Users/vladislavdevlikamov/desktop/laba/pp_2019_autumn/build/CMakeFiles/FindOpenMP/OpenMPTryFlag.c
+Apple clang version 11.0.0 (clang-1100.0.33.12)
+Target: x86_64-apple-darwin18.7.0
+Thread model: posix
+InstalledDir: /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin
+Found CUDA installation: /usr/local/cuda, version unknown
+clang: error: unsupported option '-fopenmp'
+make[2]: *** [CMakeFiles/cmTC_b6daa.dir/OpenMPTryFlag.c.o] Error 1
+make[1]: *** [cmTC_b6daa/fast] Error 2
+
+
+
+Detecting CXX OpenMP failed with the following output:
+Change Dir: /Users/vladislavdevlikamov/desktop/laba/pp_2019_autumn/build/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/usr/bin/make cmTC_6d912/fast && /Applications/Xcode.app/Contents/Developer/usr/bin/make -f CMakeFiles/cmTC_6d912.dir/build.make CMakeFiles/cmTC_6d912.dir/build
+Building CXX object CMakeFiles/cmTC_6d912.dir/OpenMPTryFlag.cpp.o
+/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++    -Wall -Werror -fopenmp=libomp -v   -o CMakeFiles/cmTC_6d912.dir/OpenMPTryFlag.cpp.o -c /Users/vladislavdevlikamov/desktop/laba/pp_2019_autumn/build/CMakeFiles/FindOpenMP/OpenMPTryFlag.cpp
+Apple clang version 11.0.0 (clang-1100.0.33.12)
+Target: x86_64-apple-darwin18.7.0
+Thread model: posix
+InstalledDir: /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin
+Found CUDA installation: /usr/local/cuda, version unknown
+clang: error: unsupported argument 'libomp' to option 'fopenmp='
+make[2]: *** [CMakeFiles/cmTC_6d912.dir/OpenMPTryFlag.cpp.o] Error 1
+make[1]: *** [cmTC_6d912/fast] Error 2
+
+
+
+Detecting CXX OpenMP failed with the following output:
+Change Dir: /Users/vladislavdevlikamov/desktop/laba/pp_2019_autumn/build/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/usr/bin/make cmTC_9f930/fast && /Applications/Xcode.app/Contents/Developer/usr/bin/make -f CMakeFiles/cmTC_9f930.dir/build.make CMakeFiles/cmTC_9f930.dir/build
+Building CXX object CMakeFiles/cmTC_9f930.dir/OpenMPTryFlag.cpp.o
+/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++    -Wall -Werror -fopenmp=libiomp5 -v   -o CMakeFiles/cmTC_9f930.dir/OpenMPTryFlag.cpp.o -c /Users/vladislavdevlikamov/desktop/laba/pp_2019_autumn/build/CMakeFiles/FindOpenMP/OpenMPTryFlag.cpp
+Apple clang version 11.0.0 (clang-1100.0.33.12)
+Target: x86_64-apple-darwin18.7.0
+Thread model: posix
+InstalledDir: /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin
+Found CUDA installation: /usr/local/cuda, version unknown
+clang: error: unsupported argument 'libiomp5' to option 'fopenmp='
+make[2]: *** [CMakeFiles/cmTC_9f930.dir/OpenMPTryFlag.cpp.o] Error 1
+make[1]: *** [cmTC_9f930/fast] Error 2
+
+
+
+Detecting CXX OpenMP failed with the following output:
+Change Dir: /Users/vladislavdevlikamov/desktop/laba/pp_2019_autumn/build/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/usr/bin/make cmTC_8ca45/fast && /Applications/Xcode.app/Contents/Developer/usr/bin/make -f CMakeFiles/cmTC_8ca45.dir/build.make CMakeFiles/cmTC_8ca45.dir/build
+Building CXX object CMakeFiles/cmTC_8ca45.dir/OpenMPTryFlag.cpp.o
+/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++    -Wall -Werror -fopenmp -v   -o CMakeFiles/cmTC_8ca45.dir/OpenMPTryFlag.cpp.o -c /Users/vladislavdevlikamov/desktop/laba/pp_2019_autumn/build/CMakeFiles/FindOpenMP/OpenMPTryFlag.cpp
+Apple clang version 11.0.0 (clang-1100.0.33.12)
+Target: x86_64-apple-darwin18.7.0
+Thread model: posix
+InstalledDir: /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin
+Found CUDA installation: /usr/local/cuda, version unknown
+clang: error: unsupported option '-fopenmp'
+make[2]: *** [CMakeFiles/cmTC_8ca45.dir/OpenMPTryFlag.cpp.o] Error 1
+make[1]: *** [cmTC_8ca45/fast] Error 2
+
+
+
+Detecting C OpenMP failed with the following output:
+Change Dir: /Users/vladislavdevlikamov/desktop/laba/pp_2019_autumn/build/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/usr/bin/make cmTC_fb44b/fast && /Applications/Xcode.app/Contents/Developer/usr/bin/make -f CMakeFiles/cmTC_fb44b.dir/build.make CMakeFiles/cmTC_fb44b.dir/build
+Building C object CMakeFiles/cmTC_fb44b.dir/OpenMPTryFlag.c.o
+/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc   -fopenmp=libomp -v   -o CMakeFiles/cmTC_fb44b.dir/OpenMPTryFlag.c.o   -c /Users/vladislavdevlikamov/desktop/laba/pp_2019_autumn/build/CMakeFiles/FindOpenMP/OpenMPTryFlag.c
+Apple clang version 11.0.0 (clang-1100.0.33.12)
+Target: x86_64-apple-darwin18.7.0
+Thread model: posix
+InstalledDir: /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin
+Found CUDA installation: /usr/local/cuda, version unknown
+clang: error: unsupported argument 'libomp' to option 'fopenmp='
+make[2]: *** [CMakeFiles/cmTC_fb44b.dir/OpenMPTryFlag.c.o] Error 1
+make[1]: *** [cmTC_fb44b/fast] Error 2
+
+
+
+Detecting C OpenMP failed with the following output:
+Change Dir: /Users/vladislavdevlikamov/desktop/laba/pp_2019_autumn/build/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/usr/bin/make cmTC_ac446/fast && /Applications/Xcode.app/Contents/Developer/usr/bin/make -f CMakeFiles/cmTC_ac446.dir/build.make CMakeFiles/cmTC_ac446.dir/build
+Building C object CMakeFiles/cmTC_ac446.dir/OpenMPTryFlag.c.o
+/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc   -fopenmp=libiomp5 -v   -o CMakeFiles/cmTC_ac446.dir/OpenMPTryFlag.c.o   -c /Users/vladislavdevlikamov/desktop/laba/pp_2019_autumn/build/CMakeFiles/FindOpenMP/OpenMPTryFlag.c
+Apple clang version 11.0.0 (clang-1100.0.33.12)
+Target: x86_64-apple-darwin18.7.0
+Thread model: posix
+InstalledDir: /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin
+Found CUDA installation: /usr/local/cuda, version unknown
+clang: error: unsupported argument 'libiomp5' to option 'fopenmp='
+make[2]: *** [CMakeFiles/cmTC_ac446.dir/OpenMPTryFlag.c.o] Error 1
+make[1]: *** [cmTC_ac446/fast] Error 2
+
+
+
+Detecting C OpenMP failed with the following output:
+Change Dir: /Users/vladislavdevlikamov/desktop/laba/pp_2019_autumn/build/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/usr/bin/make cmTC_cfef7/fast && /Applications/Xcode.app/Contents/Developer/usr/bin/make -f CMakeFiles/cmTC_cfef7.dir/build.make CMakeFiles/cmTC_cfef7.dir/build
+Building C object CMakeFiles/cmTC_cfef7.dir/OpenMPTryFlag.c.o
+/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc   -fopenmp -v   -o CMakeFiles/cmTC_cfef7.dir/OpenMPTryFlag.c.o   -c /Users/vladislavdevlikamov/desktop/laba/pp_2019_autumn/build/CMakeFiles/FindOpenMP/OpenMPTryFlag.c
+Apple clang version 11.0.0 (clang-1100.0.33.12)
+Target: x86_64-apple-darwin18.7.0
+Thread model: posix
+InstalledDir: /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin
+Found CUDA installation: /usr/local/cuda, version unknown
+clang: error: unsupported option '-fopenmp'
+make[2]: *** [CMakeFiles/cmTC_cfef7.dir/OpenMPTryFlag.c.o] Error 1
+make[1]: *** [cmTC_cfef7/fast] Error 2
+
+
+
+Detecting CXX OpenMP failed with the following output:
+Change Dir: /Users/vladislavdevlikamov/desktop/laba/pp_2019_autumn/build/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/usr/bin/make cmTC_80811/fast && /Applications/Xcode.app/Contents/Developer/usr/bin/make -f CMakeFiles/cmTC_80811.dir/build.make CMakeFiles/cmTC_80811.dir/build
+Building CXX object CMakeFiles/cmTC_80811.dir/OpenMPTryFlag.cpp.o
+/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++    -fopenmp=libomp -v   -o CMakeFiles/cmTC_80811.dir/OpenMPTryFlag.cpp.o -c /Users/vladislavdevlikamov/desktop/laba/pp_2019_autumn/build/CMakeFiles/FindOpenMP/OpenMPTryFlag.cpp
+Apple clang version 11.0.0 (clang-1100.0.33.12)
+Target: x86_64-apple-darwin18.7.0
+Thread model: posix
+InstalledDir: /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin
+Found CUDA installation: /usr/local/cuda, version unknown
+clang: error: unsupported argument 'libomp' to option 'fopenmp='
+make[2]: *** [CMakeFiles/cmTC_80811.dir/OpenMPTryFlag.cpp.o] Error 1
+make[1]: *** [cmTC_80811/fast] Error 2
+
+
+
+Detecting CXX OpenMP failed with the following output:
+Change Dir: /Users/vladislavdevlikamov/desktop/laba/pp_2019_autumn/build/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/usr/bin/make cmTC_071c7/fast && /Applications/Xcode.app/Contents/Developer/usr/bin/make -f CMakeFiles/cmTC_071c7.dir/build.make CMakeFiles/cmTC_071c7.dir/build
+Building CXX object CMakeFiles/cmTC_071c7.dir/OpenMPTryFlag.cpp.o
+/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++    -fopenmp=libiomp5 -v   -o CMakeFiles/cmTC_071c7.dir/OpenMPTryFlag.cpp.o -c /Users/vladislavdevlikamov/desktop/laba/pp_2019_autumn/build/CMakeFiles/FindOpenMP/OpenMPTryFlag.cpp
+Apple clang version 11.0.0 (clang-1100.0.33.12)
+Target: x86_64-apple-darwin18.7.0
+Thread model: posix
+InstalledDir: /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin
+Found CUDA installation: /usr/local/cuda, version unknown
+clang: error: unsupported argument 'libiomp5' to option 'fopenmp='
+make[2]: *** [CMakeFiles/cmTC_071c7.dir/OpenMPTryFlag.cpp.o] Error 1
+make[1]: *** [cmTC_071c7/fast] Error 2
+
+
+
+Detecting CXX OpenMP failed with the following output:
+Change Dir: /Users/vladislavdevlikamov/desktop/laba/pp_2019_autumn/build/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/usr/bin/make cmTC_911dc/fast && /Applications/Xcode.app/Contents/Developer/usr/bin/make -f CMakeFiles/cmTC_911dc.dir/build.make CMakeFiles/cmTC_911dc.dir/build
+Building CXX object CMakeFiles/cmTC_911dc.dir/OpenMPTryFlag.cpp.o
+/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++    -fopenmp -v   -o CMakeFiles/cmTC_911dc.dir/OpenMPTryFlag.cpp.o -c /Users/vladislavdevlikamov/desktop/laba/pp_2019_autumn/build/CMakeFiles/FindOpenMP/OpenMPTryFlag.cpp
+Apple clang version 11.0.0 (clang-1100.0.33.12)
+Target: x86_64-apple-darwin18.7.0
+Thread model: posix
+InstalledDir: /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin
+Found CUDA installation: /usr/local/cuda, version unknown
+clang: error: unsupported option '-fopenmp'
+make[2]: *** [CMakeFiles/cmTC_911dc.dir/OpenMPTryFlag.cpp.o] Error 1
+make[1]: *** [cmTC_911dc/fast] Error 2
+
+
+
+Detecting C OpenMP failed with the following output:
+Change Dir: /Users/vladislavdevlikamov/desktop/laba/pp_2019_autumn/build/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/usr/bin/make cmTC_acac3/fast && /Applications/Xcode.app/Contents/Developer/usr/bin/make -f CMakeFiles/cmTC_acac3.dir/build.make CMakeFiles/cmTC_acac3.dir/build
+Building C object CMakeFiles/cmTC_acac3.dir/OpenMPTryFlag.c.o
+/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc   -Wall -Werror -fopenmp=libomp -v   -o CMakeFiles/cmTC_acac3.dir/OpenMPTryFlag.c.o   -c /Users/vladislavdevlikamov/desktop/laba/pp_2019_autumn/build/CMakeFiles/FindOpenMP/OpenMPTryFlag.c
+Apple clang version 11.0.0 (clang-1100.0.33.12)
+Target: x86_64-apple-darwin18.7.0
+Thread model: posix
+InstalledDir: /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin
+Found CUDA installation: /usr/local/cuda, version unknown
+clang: error: unsupported argument 'libomp' to option 'fopenmp='
+make[2]: *** [CMakeFiles/cmTC_acac3.dir/OpenMPTryFlag.c.o] Error 1
+make[1]: *** [cmTC_acac3/fast] Error 2
+
+
+
+Detecting C OpenMP failed with the following output:
+Change Dir: /Users/vladislavdevlikamov/desktop/laba/pp_2019_autumn/build/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/usr/bin/make cmTC_15af4/fast && /Applications/Xcode.app/Contents/Developer/usr/bin/make -f CMakeFiles/cmTC_15af4.dir/build.make CMakeFiles/cmTC_15af4.dir/build
+Building C object CMakeFiles/cmTC_15af4.dir/OpenMPTryFlag.c.o
+/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc   -Wall -Werror -fopenmp=libiomp5 -v   -o CMakeFiles/cmTC_15af4.dir/OpenMPTryFlag.c.o   -c /Users/vladislavdevlikamov/desktop/laba/pp_2019_autumn/build/CMakeFiles/FindOpenMP/OpenMPTryFlag.c
+Apple clang version 11.0.0 (clang-1100.0.33.12)
+Target: x86_64-apple-darwin18.7.0
+Thread model: posix
+InstalledDir: /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin
+Found CUDA installation: /usr/local/cuda, version unknown
+clang: error: unsupported argument 'libiomp5' to option 'fopenmp='
+make[2]: *** [CMakeFiles/cmTC_15af4.dir/OpenMPTryFlag.c.o] Error 1
+make[1]: *** [cmTC_15af4/fast] Error 2
+
+
+
+Detecting C OpenMP failed with the following output:
+Change Dir: /Users/vladislavdevlikamov/desktop/laba/pp_2019_autumn/build/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/usr/bin/make cmTC_a07ca/fast && /Applications/Xcode.app/Contents/Developer/usr/bin/make -f CMakeFiles/cmTC_a07ca.dir/build.make CMakeFiles/cmTC_a07ca.dir/build
+Building C object CMakeFiles/cmTC_a07ca.dir/OpenMPTryFlag.c.o
+/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc   -Wall -Werror -fopenmp -v   -o CMakeFiles/cmTC_a07ca.dir/OpenMPTryFlag.c.o   -c /Users/vladislavdevlikamov/desktop/laba/pp_2019_autumn/build/CMakeFiles/FindOpenMP/OpenMPTryFlag.c
+Apple clang version 11.0.0 (clang-1100.0.33.12)
+Target: x86_64-apple-darwin18.7.0
+Thread model: posix
+InstalledDir: /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin
+Found CUDA installation: /usr/local/cuda, version unknown
+clang: error: unsupported option '-fopenmp'
+make[2]: *** [CMakeFiles/cmTC_a07ca.dir/OpenMPTryFlag.c.o] Error 1
+make[1]: *** [cmTC_a07ca/fast] Error 2
+
+
+
+Detecting CXX OpenMP failed with the following output:
+Change Dir: /Users/vladislavdevlikamov/desktop/laba/pp_2019_autumn/build/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/usr/bin/make cmTC_05c3f/fast && /Applications/Xcode.app/Contents/Developer/usr/bin/make -f CMakeFiles/cmTC_05c3f.dir/build.make CMakeFiles/cmTC_05c3f.dir/build
+Building CXX object CMakeFiles/cmTC_05c3f.dir/OpenMPTryFlag.cpp.o
+/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++    -Wall -Werror -fopenmp=libomp -v   -o CMakeFiles/cmTC_05c3f.dir/OpenMPTryFlag.cpp.o -c /Users/vladislavdevlikamov/desktop/laba/pp_2019_autumn/build/CMakeFiles/FindOpenMP/OpenMPTryFlag.cpp
+Apple clang version 11.0.0 (clang-1100.0.33.12)
+Target: x86_64-apple-darwin18.7.0
+Thread model: posix
+InstalledDir: /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin
+Found CUDA installation: /usr/local/cuda, version unknown
+clang: error: unsupported argument 'libomp' to option 'fopenmp='
+make[2]: *** [CMakeFiles/cmTC_05c3f.dir/OpenMPTryFlag.cpp.o] Error 1
+make[1]: *** [cmTC_05c3f/fast] Error 2
+
+
+
+Detecting CXX OpenMP failed with the following output:
+Change Dir: /Users/vladislavdevlikamov/desktop/laba/pp_2019_autumn/build/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/usr/bin/make cmTC_eea6d/fast && /Applications/Xcode.app/Contents/Developer/usr/bin/make -f CMakeFiles/cmTC_eea6d.dir/build.make CMakeFiles/cmTC_eea6d.dir/build
+Building CXX object CMakeFiles/cmTC_eea6d.dir/OpenMPTryFlag.cpp.o
+/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++    -Wall -Werror -fopenmp=libiomp5 -v   -o CMakeFiles/cmTC_eea6d.dir/OpenMPTryFlag.cpp.o -c /Users/vladislavdevlikamov/desktop/laba/pp_2019_autumn/build/CMakeFiles/FindOpenMP/OpenMPTryFlag.cpp
+Apple clang version 11.0.0 (clang-1100.0.33.12)
+Target: x86_64-apple-darwin18.7.0
+Thread model: posix
+InstalledDir: /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin
+Found CUDA installation: /usr/local/cuda, version unknown
+clang: error: unsupported argument 'libiomp5' to option 'fopenmp='
+make[2]: *** [CMakeFiles/cmTC_eea6d.dir/OpenMPTryFlag.cpp.o] Error 1
+make[1]: *** [cmTC_eea6d/fast] Error 2
+
+
+
+Detecting CXX OpenMP failed with the following output:
+Change Dir: /Users/vladislavdevlikamov/desktop/laba/pp_2019_autumn/build/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/usr/bin/make cmTC_78156/fast && /Applications/Xcode.app/Contents/Developer/usr/bin/make -f CMakeFiles/cmTC_78156.dir/build.make CMakeFiles/cmTC_78156.dir/build
+Building CXX object CMakeFiles/cmTC_78156.dir/OpenMPTryFlag.cpp.o
+/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++    -Wall -Werror -fopenmp -v   -o CMakeFiles/cmTC_78156.dir/OpenMPTryFlag.cpp.o -c /Users/vladislavdevlikamov/desktop/laba/pp_2019_autumn/build/CMakeFiles/FindOpenMP/OpenMPTryFlag.cpp
+Apple clang version 11.0.0 (clang-1100.0.33.12)
+Target: x86_64-apple-darwin18.7.0
+Thread model: posix
+InstalledDir: /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin
+Found CUDA installation: /usr/local/cuda, version unknown
+clang: error: unsupported option '-fopenmp'
+make[2]: *** [CMakeFiles/cmTC_78156.dir/OpenMPTryFlag.cpp.o] Error 1
+make[1]: *** [cmTC_78156/fast] Error 2
+
+
+
+Detecting C OpenMP failed with the following output:
+Change Dir: /Users/vladislavdevlikamov/desktop/laba/pp_2019_autumn/build/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/usr/bin/make cmTC_bd884/fast && /Applications/Xcode.app/Contents/Developer/usr/bin/make -f CMakeFiles/cmTC_bd884.dir/build.make CMakeFiles/cmTC_bd884.dir/build
+Building C object CMakeFiles/cmTC_bd884.dir/OpenMPTryFlag.c.o
+/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc   -Wall -Werror -fopenmp=libomp -v   -o CMakeFiles/cmTC_bd884.dir/OpenMPTryFlag.c.o   -c /Users/vladislavdevlikamov/desktop/laba/pp_2019_autumn/build/CMakeFiles/FindOpenMP/OpenMPTryFlag.c
+Apple clang version 11.0.0 (clang-1100.0.33.12)
+Target: x86_64-apple-darwin18.7.0
+Thread model: posix
+InstalledDir: /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin
+Found CUDA installation: /usr/local/cuda, version unknown
+clang: error: unsupported argument 'libomp' to option 'fopenmp='
+make[2]: *** [CMakeFiles/cmTC_bd884.dir/OpenMPTryFlag.c.o] Error 1
+make[1]: *** [cmTC_bd884/fast] Error 2
+
+
+
+Detecting C OpenMP failed with the following output:
+Change Dir: /Users/vladislavdevlikamov/desktop/laba/pp_2019_autumn/build/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/usr/bin/make cmTC_2b78b/fast && /Applications/Xcode.app/Contents/Developer/usr/bin/make -f CMakeFiles/cmTC_2b78b.dir/build.make CMakeFiles/cmTC_2b78b.dir/build
+Building C object CMakeFiles/cmTC_2b78b.dir/OpenMPTryFlag.c.o
+/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc   -Wall -Werror -fopenmp=libiomp5 -v   -o CMakeFiles/cmTC_2b78b.dir/OpenMPTryFlag.c.o   -c /Users/vladislavdevlikamov/desktop/laba/pp_2019_autumn/build/CMakeFiles/FindOpenMP/OpenMPTryFlag.c
+Apple clang version 11.0.0 (clang-1100.0.33.12)
+Target: x86_64-apple-darwin18.7.0
+Thread model: posix
+InstalledDir: /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin
+Found CUDA installation: /usr/local/cuda, version unknown
+clang: error: unsupported argument 'libiomp5' to option 'fopenmp='
+make[2]: *** [CMakeFiles/cmTC_2b78b.dir/OpenMPTryFlag.c.o] Error 1
+make[1]: *** [cmTC_2b78b/fast] Error 2
+
+
+
+Detecting C OpenMP failed with the following output:
+Change Dir: /Users/vladislavdevlikamov/desktop/laba/pp_2019_autumn/build/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/usr/bin/make cmTC_7321d/fast && /Applications/Xcode.app/Contents/Developer/usr/bin/make -f CMakeFiles/cmTC_7321d.dir/build.make CMakeFiles/cmTC_7321d.dir/build
+Building C object CMakeFiles/cmTC_7321d.dir/OpenMPTryFlag.c.o
+/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc   -Wall -Werror -fopenmp -v   -o CMakeFiles/cmTC_7321d.dir/OpenMPTryFlag.c.o   -c /Users/vladislavdevlikamov/desktop/laba/pp_2019_autumn/build/CMakeFiles/FindOpenMP/OpenMPTryFlag.c
+Apple clang version 11.0.0 (clang-1100.0.33.12)
+Target: x86_64-apple-darwin18.7.0
+Thread model: posix
+InstalledDir: /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin
+Found CUDA installation: /usr/local/cuda, version unknown
+clang: error: unsupported option '-fopenmp'
+make[2]: *** [CMakeFiles/cmTC_7321d.dir/OpenMPTryFlag.c.o] Error 1
+make[1]: *** [cmTC_7321d/fast] Error 2
+
+
+
+Detecting CXX OpenMP failed with the following output:
+Change Dir: /Users/vladislavdevlikamov/desktop/laba/pp_2019_autumn/build/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/usr/bin/make cmTC_0d9da/fast && /Applications/Xcode.app/Contents/Developer/usr/bin/make -f CMakeFiles/cmTC_0d9da.dir/build.make CMakeFiles/cmTC_0d9da.dir/build
+Building CXX object CMakeFiles/cmTC_0d9da.dir/OpenMPTryFlag.cpp.o
+/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++    -Wall -Werror -fopenmp=libomp -v   -o CMakeFiles/cmTC_0d9da.dir/OpenMPTryFlag.cpp.o -c /Users/vladislavdevlikamov/desktop/laba/pp_2019_autumn/build/CMakeFiles/FindOpenMP/OpenMPTryFlag.cpp
+Apple clang version 11.0.0 (clang-1100.0.33.12)
+Target: x86_64-apple-darwin18.7.0
+Thread model: posix
+InstalledDir: /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin
+Found CUDA installation: /usr/local/cuda, version unknown
+clang: error: unsupported argument 'libomp' to option 'fopenmp='
+make[2]: *** [CMakeFiles/cmTC_0d9da.dir/OpenMPTryFlag.cpp.o] Error 1
+make[1]: *** [cmTC_0d9da/fast] Error 2
+
+
+
+Detecting CXX OpenMP failed with the following output:
+Change Dir: /Users/vladislavdevlikamov/desktop/laba/pp_2019_autumn/build/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/usr/bin/make cmTC_87212/fast && /Applications/Xcode.app/Contents/Developer/usr/bin/make -f CMakeFiles/cmTC_87212.dir/build.make CMakeFiles/cmTC_87212.dir/build
+Building CXX object CMakeFiles/cmTC_87212.dir/OpenMPTryFlag.cpp.o
+/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++    -Wall -Werror -fopenmp=libiomp5 -v   -o CMakeFiles/cmTC_87212.dir/OpenMPTryFlag.cpp.o -c /Users/vladislavdevlikamov/desktop/laba/pp_2019_autumn/build/CMakeFiles/FindOpenMP/OpenMPTryFlag.cpp
+Apple clang version 11.0.0 (clang-1100.0.33.12)
+Target: x86_64-apple-darwin18.7.0
+Thread model: posix
+InstalledDir: /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin
+Found CUDA installation: /usr/local/cuda, version unknown
+clang: error: unsupported argument 'libiomp5' to option 'fopenmp='
+make[2]: *** [CMakeFiles/cmTC_87212.dir/OpenMPTryFlag.cpp.o] Error 1
+make[1]: *** [cmTC_87212/fast] Error 2
+
+
+
+Detecting CXX OpenMP failed with the following output:
+Change Dir: /Users/vladislavdevlikamov/desktop/laba/pp_2019_autumn/build/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/usr/bin/make cmTC_94ff0/fast && /Applications/Xcode.app/Contents/Developer/usr/bin/make -f CMakeFiles/cmTC_94ff0.dir/build.make CMakeFiles/cmTC_94ff0.dir/build
+Building CXX object CMakeFiles/cmTC_94ff0.dir/OpenMPTryFlag.cpp.o
+/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++    -Wall -Werror -fopenmp -v   -o CMakeFiles/cmTC_94ff0.dir/OpenMPTryFlag.cpp.o -c /Users/vladislavdevlikamov/desktop/laba/pp_2019_autumn/build/CMakeFiles/FindOpenMP/OpenMPTryFlag.cpp
+Apple clang version 11.0.0 (clang-1100.0.33.12)
+Target: x86_64-apple-darwin18.7.0
+Thread model: posix
+InstalledDir: /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin
+Found CUDA installation: /usr/local/cuda, version unknown
+clang: error: unsupported option '-fopenmp'
+make[2]: *** [CMakeFiles/cmTC_94ff0.dir/OpenMPTryFlag.cpp.o] Error 1
+make[1]: *** [cmTC_94ff0/fast] Error 2
+
+
+
+Detecting C OpenMP failed with the following output:
+Change Dir: /Users/vladislavdevlikamov/desktop/laba/pp_2019_autumn/build/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/usr/bin/make cmTC_db920/fast && /Applications/Xcode.app/Contents/Developer/usr/bin/make -f CMakeFiles/cmTC_db920.dir/build.make CMakeFiles/cmTC_db920.dir/build
+Building C object CMakeFiles/cmTC_db920.dir/OpenMPTryFlag.c.o
+/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc   -Wall -Werror -fopenmp=libomp -v   -o CMakeFiles/cmTC_db920.dir/OpenMPTryFlag.c.o   -c /Users/vladislavdevlikamov/desktop/laba/pp_2019_autumn/build/CMakeFiles/FindOpenMP/OpenMPTryFlag.c
+Apple clang version 11.0.0 (clang-1100.0.33.12)
+Target: x86_64-apple-darwin18.7.0
+Thread model: posix
+InstalledDir: /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin
+Found CUDA installation: /usr/local/cuda, version unknown
+clang: error: unsupported argument 'libomp' to option 'fopenmp='
+make[2]: *** [CMakeFiles/cmTC_db920.dir/OpenMPTryFlag.c.o] Error 1
+make[1]: *** [cmTC_db920/fast] Error 2
+
+
+
+Detecting C OpenMP failed with the following output:
+Change Dir: /Users/vladislavdevlikamov/desktop/laba/pp_2019_autumn/build/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/usr/bin/make cmTC_d81e1/fast && /Applications/Xcode.app/Contents/Developer/usr/bin/make -f CMakeFiles/cmTC_d81e1.dir/build.make CMakeFiles/cmTC_d81e1.dir/build
+Building C object CMakeFiles/cmTC_d81e1.dir/OpenMPTryFlag.c.o
+/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc   -Wall -Werror -fopenmp=libiomp5 -v   -o CMakeFiles/cmTC_d81e1.dir/OpenMPTryFlag.c.o   -c /Users/vladislavdevlikamov/desktop/laba/pp_2019_autumn/build/CMakeFiles/FindOpenMP/OpenMPTryFlag.c
+Apple clang version 11.0.0 (clang-1100.0.33.12)
+Target: x86_64-apple-darwin18.7.0
+Thread model: posix
+InstalledDir: /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin
+Found CUDA installation: /usr/local/cuda, version unknown
+clang: error: unsupported argument 'libiomp5' to option 'fopenmp='
+make[2]: *** [CMakeFiles/cmTC_d81e1.dir/OpenMPTryFlag.c.o] Error 1
+make[1]: *** [cmTC_d81e1/fast] Error 2
+
+
+
+Detecting C OpenMP failed with the following output:
+Change Dir: /Users/vladislavdevlikamov/desktop/laba/pp_2019_autumn/build/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/usr/bin/make cmTC_b7eb2/fast && /Applications/Xcode.app/Contents/Developer/usr/bin/make -f CMakeFiles/cmTC_b7eb2.dir/build.make CMakeFiles/cmTC_b7eb2.dir/build
+Building C object CMakeFiles/cmTC_b7eb2.dir/OpenMPTryFlag.c.o
+/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc   -Wall -Werror -fopenmp -v   -o CMakeFiles/cmTC_b7eb2.dir/OpenMPTryFlag.c.o   -c /Users/vladislavdevlikamov/desktop/laba/pp_2019_autumn/build/CMakeFiles/FindOpenMP/OpenMPTryFlag.c
+Apple clang version 11.0.0 (clang-1100.0.33.12)
+Target: x86_64-apple-darwin18.7.0
+Thread model: posix
+InstalledDir: /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin
+Found CUDA installation: /usr/local/cuda, version unknown
+clang: error: unsupported option '-fopenmp'
+make[2]: *** [CMakeFiles/cmTC_b7eb2.dir/OpenMPTryFlag.c.o] Error 1
+make[1]: *** [cmTC_b7eb2/fast] Error 2
+
+
+
+Detecting CXX OpenMP failed with the following output:
+Change Dir: /Users/vladislavdevlikamov/desktop/laba/pp_2019_autumn/build/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/usr/bin/make cmTC_54bf8/fast && /Applications/Xcode.app/Contents/Developer/usr/bin/make -f CMakeFiles/cmTC_54bf8.dir/build.make CMakeFiles/cmTC_54bf8.dir/build
+Building CXX object CMakeFiles/cmTC_54bf8.dir/OpenMPTryFlag.cpp.o
+/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++    -Wall -Werror -fopenmp=libomp -v   -o CMakeFiles/cmTC_54bf8.dir/OpenMPTryFlag.cpp.o -c /Users/vladislavdevlikamov/desktop/laba/pp_2019_autumn/build/CMakeFiles/FindOpenMP/OpenMPTryFlag.cpp
+Apple clang version 11.0.0 (clang-1100.0.33.12)
+Target: x86_64-apple-darwin18.7.0
+Thread model: posix
+InstalledDir: /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin
+Found CUDA installation: /usr/local/cuda, version unknown
+clang: error: unsupported argument 'libomp' to option 'fopenmp='
+make[2]: *** [CMakeFiles/cmTC_54bf8.dir/OpenMPTryFlag.cpp.o] Error 1
+make[1]: *** [cmTC_54bf8/fast] Error 2
+
+
+
+Detecting CXX OpenMP failed with the following output:
+Change Dir: /Users/vladislavdevlikamov/desktop/laba/pp_2019_autumn/build/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/usr/bin/make cmTC_bf57f/fast && /Applications/Xcode.app/Contents/Developer/usr/bin/make -f CMakeFiles/cmTC_bf57f.dir/build.make CMakeFiles/cmTC_bf57f.dir/build
+Building CXX object CMakeFiles/cmTC_bf57f.dir/OpenMPTryFlag.cpp.o
+/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++    -Wall -Werror -fopenmp=libiomp5 -v   -o CMakeFiles/cmTC_bf57f.dir/OpenMPTryFlag.cpp.o -c /Users/vladislavdevlikamov/desktop/laba/pp_2019_autumn/build/CMakeFiles/FindOpenMP/OpenMPTryFlag.cpp
+Apple clang version 11.0.0 (clang-1100.0.33.12)
+Target: x86_64-apple-darwin18.7.0
+Thread model: posix
+InstalledDir: /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin
+Found CUDA installation: /usr/local/cuda, version unknown
+clang: error: unsupported argument 'libiomp5' to option 'fopenmp='
+make[2]: *** [CMakeFiles/cmTC_bf57f.dir/OpenMPTryFlag.cpp.o] Error 1
+make[1]: *** [cmTC_bf57f/fast] Error 2
+
+
+
+Detecting CXX OpenMP failed with the following output:
+Change Dir: /Users/vladislavdevlikamov/desktop/laba/pp_2019_autumn/build/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/usr/bin/make cmTC_d73f4/fast && /Applications/Xcode.app/Contents/Developer/usr/bin/make -f CMakeFiles/cmTC_d73f4.dir/build.make CMakeFiles/cmTC_d73f4.dir/build
+Building CXX object CMakeFiles/cmTC_d73f4.dir/OpenMPTryFlag.cpp.o
+/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++    -Wall -Werror -fopenmp -v   -o CMakeFiles/cmTC_d73f4.dir/OpenMPTryFlag.cpp.o -c /Users/vladislavdevlikamov/desktop/laba/pp_2019_autumn/build/CMakeFiles/FindOpenMP/OpenMPTryFlag.cpp
+Apple clang version 11.0.0 (clang-1100.0.33.12)
+Target: x86_64-apple-darwin18.7.0
+Thread model: posix
+InstalledDir: /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin
+Found CUDA installation: /usr/local/cuda, version unknown
+clang: error: unsupported option '-fopenmp'
+make[2]: *** [CMakeFiles/cmTC_d73f4.dir/OpenMPTryFlag.cpp.o] Error 1
+make[1]: *** [cmTC_d73f4/fast] Error 2
+
+
+
+Detecting C OpenMP failed with the following output:
+Change Dir: /Users/vladislavdevlikamov/desktop/laba/pp_2019_autumn/build/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/usr/bin/make cmTC_6cd4a/fast && /Applications/Xcode.app/Contents/Developer/usr/bin/make -f CMakeFiles/cmTC_6cd4a.dir/build.make CMakeFiles/cmTC_6cd4a.dir/build
+Building C object CMakeFiles/cmTC_6cd4a.dir/OpenMPTryFlag.c.o
+/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc   -Wall -Werror -fopenmp=libomp -v   -o CMakeFiles/cmTC_6cd4a.dir/OpenMPTryFlag.c.o   -c /Users/vladislavdevlikamov/desktop/laba/pp_2019_autumn/build/CMakeFiles/FindOpenMP/OpenMPTryFlag.c
+Apple clang version 11.0.0 (clang-1100.0.33.12)
+Target: x86_64-apple-darwin18.7.0
+Thread model: posix
+InstalledDir: /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin
+Found CUDA installation: /usr/local/cuda, version unknown
+clang: error: unsupported argument 'libomp' to option 'fopenmp='
+make[2]: *** [CMakeFiles/cmTC_6cd4a.dir/OpenMPTryFlag.c.o] Error 1
+make[1]: *** [cmTC_6cd4a/fast] Error 2
+
+
+
+Detecting C OpenMP failed with the following output:
+Change Dir: /Users/vladislavdevlikamov/desktop/laba/pp_2019_autumn/build/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/usr/bin/make cmTC_fba07/fast && /Applications/Xcode.app/Contents/Developer/usr/bin/make -f CMakeFiles/cmTC_fba07.dir/build.make CMakeFiles/cmTC_fba07.dir/build
+Building C object CMakeFiles/cmTC_fba07.dir/OpenMPTryFlag.c.o
+/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc   -Wall -Werror -fopenmp=libiomp5 -v   -o CMakeFiles/cmTC_fba07.dir/OpenMPTryFlag.c.o   -c /Users/vladislavdevlikamov/desktop/laba/pp_2019_autumn/build/CMakeFiles/FindOpenMP/OpenMPTryFlag.c
+Apple clang version 11.0.0 (clang-1100.0.33.12)
+Target: x86_64-apple-darwin18.7.0
+Thread model: posix
+InstalledDir: /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin
+Found CUDA installation: /usr/local/cuda, version unknown
+clang: error: unsupported argument 'libiomp5' to option 'fopenmp='
+make[2]: *** [CMakeFiles/cmTC_fba07.dir/OpenMPTryFlag.c.o] Error 1
+make[1]: *** [cmTC_fba07/fast] Error 2
+
+
+
+Detecting C OpenMP failed with the following output:
+Change Dir: /Users/vladislavdevlikamov/desktop/laba/pp_2019_autumn/build/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/usr/bin/make cmTC_ef5d5/fast && /Applications/Xcode.app/Contents/Developer/usr/bin/make -f CMakeFiles/cmTC_ef5d5.dir/build.make CMakeFiles/cmTC_ef5d5.dir/build
+Building C object CMakeFiles/cmTC_ef5d5.dir/OpenMPTryFlag.c.o
+/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc   -Wall -Werror -fopenmp -v   -o CMakeFiles/cmTC_ef5d5.dir/OpenMPTryFlag.c.o   -c /Users/vladislavdevlikamov/desktop/laba/pp_2019_autumn/build/CMakeFiles/FindOpenMP/OpenMPTryFlag.c
+Apple clang version 11.0.0 (clang-1100.0.33.12)
+Target: x86_64-apple-darwin18.7.0
+Thread model: posix
+InstalledDir: /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin
+Found CUDA installation: /usr/local/cuda, version unknown
+clang: error: unsupported option '-fopenmp'
+make[2]: *** [CMakeFiles/cmTC_ef5d5.dir/OpenMPTryFlag.c.o] Error 1
+make[1]: *** [cmTC_ef5d5/fast] Error 2
+
+
+
+Detecting CXX OpenMP failed with the following output:
+Change Dir: /Users/vladislavdevlikamov/desktop/laba/pp_2019_autumn/build/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/usr/bin/make cmTC_548cb/fast && /Applications/Xcode.app/Contents/Developer/usr/bin/make -f CMakeFiles/cmTC_548cb.dir/build.make CMakeFiles/cmTC_548cb.dir/build
+Building CXX object CMakeFiles/cmTC_548cb.dir/OpenMPTryFlag.cpp.o
+/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++    -Wall -Werror -fopenmp=libomp -v   -o CMakeFiles/cmTC_548cb.dir/OpenMPTryFlag.cpp.o -c /Users/vladislavdevlikamov/desktop/laba/pp_2019_autumn/build/CMakeFiles/FindOpenMP/OpenMPTryFlag.cpp
+Apple clang version 11.0.0 (clang-1100.0.33.12)
+Target: x86_64-apple-darwin18.7.0
+Thread model: posix
+InstalledDir: /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin
+Found CUDA installation: /usr/local/cuda, version unknown
+clang: error: unsupported argument 'libomp' to option 'fopenmp='
+make[2]: *** [CMakeFiles/cmTC_548cb.dir/OpenMPTryFlag.cpp.o] Error 1
+make[1]: *** [cmTC_548cb/fast] Error 2
+
+
+
+Detecting CXX OpenMP failed with the following output:
+Change Dir: /Users/vladislavdevlikamov/desktop/laba/pp_2019_autumn/build/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/usr/bin/make cmTC_27de9/fast && /Applications/Xcode.app/Contents/Developer/usr/bin/make -f CMakeFiles/cmTC_27de9.dir/build.make CMakeFiles/cmTC_27de9.dir/build
+Building CXX object CMakeFiles/cmTC_27de9.dir/OpenMPTryFlag.cpp.o
+/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++    -Wall -Werror -fopenmp=libiomp5 -v   -o CMakeFiles/cmTC_27de9.dir/OpenMPTryFlag.cpp.o -c /Users/vladislavdevlikamov/desktop/laba/pp_2019_autumn/build/CMakeFiles/FindOpenMP/OpenMPTryFlag.cpp
+Apple clang version 11.0.0 (clang-1100.0.33.12)
+Target: x86_64-apple-darwin18.7.0
+Thread model: posix
+InstalledDir: /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin
+Found CUDA installation: /usr/local/cuda, version unknown
+clang: error: unsupported argument 'libiomp5' to option 'fopenmp='
+make[2]: *** [CMakeFiles/cmTC_27de9.dir/OpenMPTryFlag.cpp.o] Error 1
+make[1]: *** [cmTC_27de9/fast] Error 2
+
+
+
+Detecting CXX OpenMP failed with the following output:
+Change Dir: /Users/vladislavdevlikamov/desktop/laba/pp_2019_autumn/build/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/usr/bin/make cmTC_00b7b/fast && /Applications/Xcode.app/Contents/Developer/usr/bin/make -f CMakeFiles/cmTC_00b7b.dir/build.make CMakeFiles/cmTC_00b7b.dir/build
+Building CXX object CMakeFiles/cmTC_00b7b.dir/OpenMPTryFlag.cpp.o
+/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++    -Wall -Werror -fopenmp -v   -o CMakeFiles/cmTC_00b7b.dir/OpenMPTryFlag.cpp.o -c /Users/vladislavdevlikamov/desktop/laba/pp_2019_autumn/build/CMakeFiles/FindOpenMP/OpenMPTryFlag.cpp
+Apple clang version 11.0.0 (clang-1100.0.33.12)
+Target: x86_64-apple-darwin18.7.0
+Thread model: posix
+InstalledDir: /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin
+Found CUDA installation: /usr/local/cuda, version unknown
+clang: error: unsupported option '-fopenmp'
+make[2]: *** [CMakeFiles/cmTC_00b7b.dir/OpenMPTryFlag.cpp.o] Error 1
+make[1]: *** [cmTC_00b7b/fast] Error 2
+
+
+
+Detecting C OpenMP failed with the following output:
+Change Dir: /Users/vladislavdevlikamov/desktop/laba/pp_2019_autumn/build/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/usr/bin/make cmTC_4eb10/fast && /Applications/Xcode.app/Contents/Developer/usr/bin/make -f CMakeFiles/cmTC_4eb10.dir/build.make CMakeFiles/cmTC_4eb10.dir/build
+Building C object CMakeFiles/cmTC_4eb10.dir/OpenMPTryFlag.c.o
+/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc   -Wall -Werror -fopenmp=libomp -v   -o CMakeFiles/cmTC_4eb10.dir/OpenMPTryFlag.c.o   -c /Users/vladislavdevlikamov/desktop/laba/pp_2019_autumn/build/CMakeFiles/FindOpenMP/OpenMPTryFlag.c
+Apple clang version 11.0.0 (clang-1100.0.33.12)
+Target: x86_64-apple-darwin18.7.0
+Thread model: posix
+InstalledDir: /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin
+Found CUDA installation: /usr/local/cuda, version unknown
+clang: error: unsupported argument 'libomp' to option 'fopenmp='
+make[2]: *** [CMakeFiles/cmTC_4eb10.dir/OpenMPTryFlag.c.o] Error 1
+make[1]: *** [cmTC_4eb10/fast] Error 2
+
+
+
+Detecting C OpenMP failed with the following output:
+Change Dir: /Users/vladislavdevlikamov/desktop/laba/pp_2019_autumn/build/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/usr/bin/make cmTC_2ef6e/fast && /Applications/Xcode.app/Contents/Developer/usr/bin/make -f CMakeFiles/cmTC_2ef6e.dir/build.make CMakeFiles/cmTC_2ef6e.dir/build
+Building C object CMakeFiles/cmTC_2ef6e.dir/OpenMPTryFlag.c.o
+/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc   -Wall -Werror -fopenmp=libiomp5 -v   -o CMakeFiles/cmTC_2ef6e.dir/OpenMPTryFlag.c.o   -c /Users/vladislavdevlikamov/desktop/laba/pp_2019_autumn/build/CMakeFiles/FindOpenMP/OpenMPTryFlag.c
+Apple clang version 11.0.0 (clang-1100.0.33.12)
+Target: x86_64-apple-darwin18.7.0
+Thread model: posix
+InstalledDir: /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin
+Found CUDA installation: /usr/local/cuda, version unknown
+clang: error: unsupported argument 'libiomp5' to option 'fopenmp='
+make[2]: *** [CMakeFiles/cmTC_2ef6e.dir/OpenMPTryFlag.c.o] Error 1
+make[1]: *** [cmTC_2ef6e/fast] Error 2
+
+
+
+Detecting C OpenMP failed with the following output:
+Change Dir: /Users/vladislavdevlikamov/desktop/laba/pp_2019_autumn/build/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/usr/bin/make cmTC_4434a/fast && /Applications/Xcode.app/Contents/Developer/usr/bin/make -f CMakeFiles/cmTC_4434a.dir/build.make CMakeFiles/cmTC_4434a.dir/build
+Building C object CMakeFiles/cmTC_4434a.dir/OpenMPTryFlag.c.o
+/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc   -Wall -Werror -fopenmp -v   -o CMakeFiles/cmTC_4434a.dir/OpenMPTryFlag.c.o   -c /Users/vladislavdevlikamov/desktop/laba/pp_2019_autumn/build/CMakeFiles/FindOpenMP/OpenMPTryFlag.c
+Apple clang version 11.0.0 (clang-1100.0.33.12)
+Target: x86_64-apple-darwin18.7.0
+Thread model: posix
+InstalledDir: /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin
+Found CUDA installation: /usr/local/cuda, version unknown
+clang: error: unsupported option '-fopenmp'
+make[2]: *** [CMakeFiles/cmTC_4434a.dir/OpenMPTryFlag.c.o] Error 1
+make[1]: *** [cmTC_4434a/fast] Error 2
+
+
+
+Detecting CXX OpenMP failed with the following output:
+Change Dir: /Users/vladislavdevlikamov/desktop/laba/pp_2019_autumn/build/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/usr/bin/make cmTC_43fc0/fast && /Applications/Xcode.app/Contents/Developer/usr/bin/make -f CMakeFiles/cmTC_43fc0.dir/build.make CMakeFiles/cmTC_43fc0.dir/build
+Building CXX object CMakeFiles/cmTC_43fc0.dir/OpenMPTryFlag.cpp.o
+/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++    -Wall -Werror -fopenmp=libomp -v   -o CMakeFiles/cmTC_43fc0.dir/OpenMPTryFlag.cpp.o -c /Users/vladislavdevlikamov/desktop/laba/pp_2019_autumn/build/CMakeFiles/FindOpenMP/OpenMPTryFlag.cpp
+Apple clang version 11.0.0 (clang-1100.0.33.12)
+Target: x86_64-apple-darwin18.7.0
+Thread model: posix
+InstalledDir: /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin
+Found CUDA installation: /usr/local/cuda, version unknown
+clang: error: unsupported argument 'libomp' to option 'fopenmp='
+make[2]: *** [CMakeFiles/cmTC_43fc0.dir/OpenMPTryFlag.cpp.o] Error 1
+make[1]: *** [cmTC_43fc0/fast] Error 2
+
+
+
+Detecting CXX OpenMP failed with the following output:
+Change Dir: /Users/vladislavdevlikamov/desktop/laba/pp_2019_autumn/build/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/usr/bin/make cmTC_347bb/fast && /Applications/Xcode.app/Contents/Developer/usr/bin/make -f CMakeFiles/cmTC_347bb.dir/build.make CMakeFiles/cmTC_347bb.dir/build
+Building CXX object CMakeFiles/cmTC_347bb.dir/OpenMPTryFlag.cpp.o
+/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++    -Wall -Werror -fopenmp=libiomp5 -v   -o CMakeFiles/cmTC_347bb.dir/OpenMPTryFlag.cpp.o -c /Users/vladislavdevlikamov/desktop/laba/pp_2019_autumn/build/CMakeFiles/FindOpenMP/OpenMPTryFlag.cpp
+Apple clang version 11.0.0 (clang-1100.0.33.12)
+Target: x86_64-apple-darwin18.7.0
+Thread model: posix
+InstalledDir: /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin
+Found CUDA installation: /usr/local/cuda, version unknown
+clang: error: unsupported argument 'libiomp5' to option 'fopenmp='
+make[2]: *** [CMakeFiles/cmTC_347bb.dir/OpenMPTryFlag.cpp.o] Error 1
+make[1]: *** [cmTC_347bb/fast] Error 2
+
+
+
+Detecting CXX OpenMP failed with the following output:
+Change Dir: /Users/vladislavdevlikamov/desktop/laba/pp_2019_autumn/build/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/usr/bin/make cmTC_a941c/fast && /Applications/Xcode.app/Contents/Developer/usr/bin/make -f CMakeFiles/cmTC_a941c.dir/build.make CMakeFiles/cmTC_a941c.dir/build
+Building CXX object CMakeFiles/cmTC_a941c.dir/OpenMPTryFlag.cpp.o
+/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++    -Wall -Werror -fopenmp -v   -o CMakeFiles/cmTC_a941c.dir/OpenMPTryFlag.cpp.o -c /Users/vladislavdevlikamov/desktop/laba/pp_2019_autumn/build/CMakeFiles/FindOpenMP/OpenMPTryFlag.cpp
+Apple clang version 11.0.0 (clang-1100.0.33.12)
+Target: x86_64-apple-darwin18.7.0
+Thread model: posix
+InstalledDir: /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin
+Found CUDA installation: /usr/local/cuda, version unknown
+clang: error: unsupported option '-fopenmp'
+make[2]: *** [CMakeFiles/cmTC_a941c.dir/OpenMPTryFlag.cpp.o] Error 1
+make[1]: *** [cmTC_a941c/fast] Error 2
+
+
+
+Detecting C OpenMP failed with the following output:
+Change Dir: /Users/vladislavdevlikamov/desktop/laba/pp_2019_autumn/build/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/usr/bin/make cmTC_947f5/fast && /Applications/Xcode.app/Contents/Developer/usr/bin/make -f CMakeFiles/cmTC_947f5.dir/build.make CMakeFiles/cmTC_947f5.dir/build
+Building C object CMakeFiles/cmTC_947f5.dir/OpenMPTryFlag.c.o
+/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc   -Wall -Werror -fopenmp=libomp -v   -o CMakeFiles/cmTC_947f5.dir/OpenMPTryFlag.c.o   -c /Users/vladislavdevlikamov/desktop/laba/pp_2019_autumn/build/CMakeFiles/FindOpenMP/OpenMPTryFlag.c
+Apple clang version 11.0.0 (clang-1100.0.33.12)
+Target: x86_64-apple-darwin18.7.0
+Thread model: posix
+InstalledDir: /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin
+Found CUDA installation: /usr/local/cuda, version unknown
+clang: error: unsupported argument 'libomp' to option 'fopenmp='
+make[2]: *** [CMakeFiles/cmTC_947f5.dir/OpenMPTryFlag.c.o] Error 1
+make[1]: *** [cmTC_947f5/fast] Error 2
+
+
+
+Detecting C OpenMP failed with the following output:
+Change Dir: /Users/vladislavdevlikamov/desktop/laba/pp_2019_autumn/build/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/usr/bin/make cmTC_08631/fast && /Applications/Xcode.app/Contents/Developer/usr/bin/make -f CMakeFiles/cmTC_08631.dir/build.make CMakeFiles/cmTC_08631.dir/build
+Building C object CMakeFiles/cmTC_08631.dir/OpenMPTryFlag.c.o
+/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc   -Wall -Werror -fopenmp=libiomp5 -v   -o CMakeFiles/cmTC_08631.dir/OpenMPTryFlag.c.o   -c /Users/vladislavdevlikamov/desktop/laba/pp_2019_autumn/build/CMakeFiles/FindOpenMP/OpenMPTryFlag.c
+Apple clang version 11.0.0 (clang-1100.0.33.12)
+Target: x86_64-apple-darwin18.7.0
+Thread model: posix
+InstalledDir: /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin
+Found CUDA installation: /usr/local/cuda, version unknown
+clang: error: unsupported argument 'libiomp5' to option 'fopenmp='
+make[2]: *** [CMakeFiles/cmTC_08631.dir/OpenMPTryFlag.c.o] Error 1
+make[1]: *** [cmTC_08631/fast] Error 2
+
+
+
+Detecting C OpenMP failed with the following output:
+Change Dir: /Users/vladislavdevlikamov/desktop/laba/pp_2019_autumn/build/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/usr/bin/make cmTC_fee04/fast && /Applications/Xcode.app/Contents/Developer/usr/bin/make -f CMakeFiles/cmTC_fee04.dir/build.make CMakeFiles/cmTC_fee04.dir/build
+Building C object CMakeFiles/cmTC_fee04.dir/OpenMPTryFlag.c.o
+/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc   -Wall -Werror -fopenmp -v   -o CMakeFiles/cmTC_fee04.dir/OpenMPTryFlag.c.o   -c /Users/vladislavdevlikamov/desktop/laba/pp_2019_autumn/build/CMakeFiles/FindOpenMP/OpenMPTryFlag.c
+Apple clang version 11.0.0 (clang-1100.0.33.12)
+Target: x86_64-apple-darwin18.7.0
+Thread model: posix
+InstalledDir: /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin
+Found CUDA installation: /usr/local/cuda, version unknown
+clang: error: unsupported option '-fopenmp'
+make[2]: *** [CMakeFiles/cmTC_fee04.dir/OpenMPTryFlag.c.o] Error 1
+make[1]: *** [cmTC_fee04/fast] Error 2
+
+
+
+Detecting CXX OpenMP failed with the following output:
+Change Dir: /Users/vladislavdevlikamov/desktop/laba/pp_2019_autumn/build/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/usr/bin/make cmTC_9a7eb/fast && /Applications/Xcode.app/Contents/Developer/usr/bin/make -f CMakeFiles/cmTC_9a7eb.dir/build.make CMakeFiles/cmTC_9a7eb.dir/build
+Building CXX object CMakeFiles/cmTC_9a7eb.dir/OpenMPTryFlag.cpp.o
+/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++    -Wall -Werror -fopenmp=libomp -v   -o CMakeFiles/cmTC_9a7eb.dir/OpenMPTryFlag.cpp.o -c /Users/vladislavdevlikamov/desktop/laba/pp_2019_autumn/build/CMakeFiles/FindOpenMP/OpenMPTryFlag.cpp
+Apple clang version 11.0.0 (clang-1100.0.33.12)
+Target: x86_64-apple-darwin18.7.0
+Thread model: posix
+InstalledDir: /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin
+Found CUDA installation: /usr/local/cuda, version unknown
+clang: error: unsupported argument 'libomp' to option 'fopenmp='
+make[2]: *** [CMakeFiles/cmTC_9a7eb.dir/OpenMPTryFlag.cpp.o] Error 1
+make[1]: *** [cmTC_9a7eb/fast] Error 2
+
+
+
+Detecting CXX OpenMP failed with the following output:
+Change Dir: /Users/vladislavdevlikamov/desktop/laba/pp_2019_autumn/build/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/usr/bin/make cmTC_2d979/fast && /Applications/Xcode.app/Contents/Developer/usr/bin/make -f CMakeFiles/cmTC_2d979.dir/build.make CMakeFiles/cmTC_2d979.dir/build
+Building CXX object CMakeFiles/cmTC_2d979.dir/OpenMPTryFlag.cpp.o
+/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++    -Wall -Werror -fopenmp=libiomp5 -v   -o CMakeFiles/cmTC_2d979.dir/OpenMPTryFlag.cpp.o -c /Users/vladislavdevlikamov/desktop/laba/pp_2019_autumn/build/CMakeFiles/FindOpenMP/OpenMPTryFlag.cpp
+Apple clang version 11.0.0 (clang-1100.0.33.12)
+Target: x86_64-apple-darwin18.7.0
+Thread model: posix
+InstalledDir: /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin
+Found CUDA installation: /usr/local/cuda, version unknown
+clang: error: unsupported argument 'libiomp5' to option 'fopenmp='
+make[2]: *** [CMakeFiles/cmTC_2d979.dir/OpenMPTryFlag.cpp.o] Error 1
+make[1]: *** [cmTC_2d979/fast] Error 2
+
+
+
+Detecting CXX OpenMP failed with the following output:
+Change Dir: /Users/vladislavdevlikamov/desktop/laba/pp_2019_autumn/build/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/usr/bin/make cmTC_05883/fast && /Applications/Xcode.app/Contents/Developer/usr/bin/make -f CMakeFiles/cmTC_05883.dir/build.make CMakeFiles/cmTC_05883.dir/build
+Building CXX object CMakeFiles/cmTC_05883.dir/OpenMPTryFlag.cpp.o
+/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++    -Wall -Werror -fopenmp -v   -o CMakeFiles/cmTC_05883.dir/OpenMPTryFlag.cpp.o -c /Users/vladislavdevlikamov/desktop/laba/pp_2019_autumn/build/CMakeFiles/FindOpenMP/OpenMPTryFlag.cpp
+Apple clang version 11.0.0 (clang-1100.0.33.12)
+Target: x86_64-apple-darwin18.7.0
+Thread model: posix
+InstalledDir: /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin
+Found CUDA installation: /usr/local/cuda, version unknown
+clang: error: unsupported option '-fopenmp'
+make[2]: *** [CMakeFiles/cmTC_05883.dir/OpenMPTryFlag.cpp.o] Error 1
+make[1]: *** [cmTC_05883/fast] Error 2
+
+
+
+Detecting C OpenMP failed with the following output:
+Change Dir: /Users/vladislavdevlikamov/desktop/laba/pp_2019_autumn/build/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/usr/bin/make cmTC_e06c6/fast && /Applications/Xcode.app/Contents/Developer/usr/bin/make -f CMakeFiles/cmTC_e06c6.dir/build.make CMakeFiles/cmTC_e06c6.dir/build
+Building C object CMakeFiles/cmTC_e06c6.dir/OpenMPTryFlag.c.o
+/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc   -Wall -Werror -fopenmp=libomp -v   -o CMakeFiles/cmTC_e06c6.dir/OpenMPTryFlag.c.o   -c /Users/vladislavdevlikamov/desktop/laba/pp_2019_autumn/build/CMakeFiles/FindOpenMP/OpenMPTryFlag.c
+Apple clang version 11.0.0 (clang-1100.0.33.12)
+Target: x86_64-apple-darwin18.7.0
+Thread model: posix
+InstalledDir: /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin
+Found CUDA installation: /usr/local/cuda, version unknown
+clang: error: unsupported argument 'libomp' to option 'fopenmp='
+make[2]: *** [CMakeFiles/cmTC_e06c6.dir/OpenMPTryFlag.c.o] Error 1
+make[1]: *** [cmTC_e06c6/fast] Error 2
+
+
+
+Detecting C OpenMP failed with the following output:
+Change Dir: /Users/vladislavdevlikamov/desktop/laba/pp_2019_autumn/build/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/usr/bin/make cmTC_7b8dc/fast && /Applications/Xcode.app/Contents/Developer/usr/bin/make -f CMakeFiles/cmTC_7b8dc.dir/build.make CMakeFiles/cmTC_7b8dc.dir/build
+Building C object CMakeFiles/cmTC_7b8dc.dir/OpenMPTryFlag.c.o
+/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc   -Wall -Werror -fopenmp=libiomp5 -v   -o CMakeFiles/cmTC_7b8dc.dir/OpenMPTryFlag.c.o   -c /Users/vladislavdevlikamov/desktop/laba/pp_2019_autumn/build/CMakeFiles/FindOpenMP/OpenMPTryFlag.c
+Apple clang version 11.0.0 (clang-1100.0.33.12)
+Target: x86_64-apple-darwin18.7.0
+Thread model: posix
+InstalledDir: /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin
+Found CUDA installation: /usr/local/cuda, version unknown
+clang: error: unsupported argument 'libiomp5' to option 'fopenmp='
+make[2]: *** [CMakeFiles/cmTC_7b8dc.dir/OpenMPTryFlag.c.o] Error 1
+make[1]: *** [cmTC_7b8dc/fast] Error 2
+
+
+
+Detecting C OpenMP failed with the following output:
+Change Dir: /Users/vladislavdevlikamov/desktop/laba/pp_2019_autumn/build/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/usr/bin/make cmTC_4946d/fast && /Applications/Xcode.app/Contents/Developer/usr/bin/make -f CMakeFiles/cmTC_4946d.dir/build.make CMakeFiles/cmTC_4946d.dir/build
+Building C object CMakeFiles/cmTC_4946d.dir/OpenMPTryFlag.c.o
+/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc   -Wall -Werror -fopenmp -v   -o CMakeFiles/cmTC_4946d.dir/OpenMPTryFlag.c.o   -c /Users/vladislavdevlikamov/desktop/laba/pp_2019_autumn/build/CMakeFiles/FindOpenMP/OpenMPTryFlag.c
+Apple clang version 11.0.0 (clang-1100.0.33.12)
+Target: x86_64-apple-darwin18.7.0
+Thread model: posix
+InstalledDir: /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin
+Found CUDA installation: /usr/local/cuda, version unknown
+clang: error: unsupported option '-fopenmp'
+make[2]: *** [CMakeFiles/cmTC_4946d.dir/OpenMPTryFlag.c.o] Error 1
+make[1]: *** [cmTC_4946d/fast] Error 2
+
+
+
+Detecting CXX OpenMP failed with the following output:
+Change Dir: /Users/vladislavdevlikamov/desktop/laba/pp_2019_autumn/build/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/usr/bin/make cmTC_5377b/fast && /Applications/Xcode.app/Contents/Developer/usr/bin/make -f CMakeFiles/cmTC_5377b.dir/build.make CMakeFiles/cmTC_5377b.dir/build
+Building CXX object CMakeFiles/cmTC_5377b.dir/OpenMPTryFlag.cpp.o
+/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++    -Wall -Werror -fopenmp=libomp -v   -o CMakeFiles/cmTC_5377b.dir/OpenMPTryFlag.cpp.o -c /Users/vladislavdevlikamov/desktop/laba/pp_2019_autumn/build/CMakeFiles/FindOpenMP/OpenMPTryFlag.cpp
+Apple clang version 11.0.0 (clang-1100.0.33.12)
+Target: x86_64-apple-darwin18.7.0
+Thread model: posix
+InstalledDir: /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin
+Found CUDA installation: /usr/local/cuda, version unknown
+clang: error: unsupported argument 'libomp' to option 'fopenmp='
+make[2]: *** [CMakeFiles/cmTC_5377b.dir/OpenMPTryFlag.cpp.o] Error 1
+make[1]: *** [cmTC_5377b/fast] Error 2
+
+
+
+Detecting CXX OpenMP failed with the following output:
+Change Dir: /Users/vladislavdevlikamov/desktop/laba/pp_2019_autumn/build/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/usr/bin/make cmTC_80ae0/fast && /Applications/Xcode.app/Contents/Developer/usr/bin/make -f CMakeFiles/cmTC_80ae0.dir/build.make CMakeFiles/cmTC_80ae0.dir/build
+Building CXX object CMakeFiles/cmTC_80ae0.dir/OpenMPTryFlag.cpp.o
+/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++    -Wall -Werror -fopenmp=libiomp5 -v   -o CMakeFiles/cmTC_80ae0.dir/OpenMPTryFlag.cpp.o -c /Users/vladislavdevlikamov/desktop/laba/pp_2019_autumn/build/CMakeFiles/FindOpenMP/OpenMPTryFlag.cpp
+Apple clang version 11.0.0 (clang-1100.0.33.12)
+Target: x86_64-apple-darwin18.7.0
+Thread model: posix
+InstalledDir: /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin
+Found CUDA installation: /usr/local/cuda, version unknown
+clang: error: unsupported argument 'libiomp5' to option 'fopenmp='
+make[2]: *** [CMakeFiles/cmTC_80ae0.dir/OpenMPTryFlag.cpp.o] Error 1
+make[1]: *** [cmTC_80ae0/fast] Error 2
+
+
+
+Detecting CXX OpenMP failed with the following output:
+Change Dir: /Users/vladislavdevlikamov/desktop/laba/pp_2019_autumn/build/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/usr/bin/make cmTC_eb1e0/fast && /Applications/Xcode.app/Contents/Developer/usr/bin/make -f CMakeFiles/cmTC_eb1e0.dir/build.make CMakeFiles/cmTC_eb1e0.dir/build
+Building CXX object CMakeFiles/cmTC_eb1e0.dir/OpenMPTryFlag.cpp.o
+/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++    -Wall -Werror -fopenmp -v   -o CMakeFiles/cmTC_eb1e0.dir/OpenMPTryFlag.cpp.o -c /Users/vladislavdevlikamov/desktop/laba/pp_2019_autumn/build/CMakeFiles/FindOpenMP/OpenMPTryFlag.cpp
+Apple clang version 11.0.0 (clang-1100.0.33.12)
+Target: x86_64-apple-darwin18.7.0
+Thread model: posix
+InstalledDir: /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin
+Found CUDA installation: /usr/local/cuda, version unknown
+clang: error: unsupported option '-fopenmp'
+make[2]: *** [CMakeFiles/cmTC_eb1e0.dir/OpenMPTryFlag.cpp.o] Error 1
+make[1]: *** [cmTC_eb1e0/fast] Error 2
+
+
+
+Detecting C OpenMP failed with the following output:
+Change Dir: /Users/vladislavdevlikamov/desktop/laba/pp_2019_autumn/build/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/usr/bin/make cmTC_fb71c/fast && /Applications/Xcode.app/Contents/Developer/usr/bin/make -f CMakeFiles/cmTC_fb71c.dir/build.make CMakeFiles/cmTC_fb71c.dir/build
+Building C object CMakeFiles/cmTC_fb71c.dir/OpenMPTryFlag.c.o
+/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc   -Wall -Werror -fopenmp=libomp -v   -o CMakeFiles/cmTC_fb71c.dir/OpenMPTryFlag.c.o   -c /Users/vladislavdevlikamov/desktop/laba/pp_2019_autumn/build/CMakeFiles/FindOpenMP/OpenMPTryFlag.c
+Apple clang version 11.0.0 (clang-1100.0.33.12)
+Target: x86_64-apple-darwin18.7.0
+Thread model: posix
+InstalledDir: /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin
+Found CUDA installation: /usr/local/cuda, version unknown
+clang: error: unsupported argument 'libomp' to option 'fopenmp='
+make[2]: *** [CMakeFiles/cmTC_fb71c.dir/OpenMPTryFlag.c.o] Error 1
+make[1]: *** [cmTC_fb71c/fast] Error 2
+
+
+
+Detecting C OpenMP failed with the following output:
+Change Dir: /Users/vladislavdevlikamov/desktop/laba/pp_2019_autumn/build/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/usr/bin/make cmTC_d14f7/fast && /Applications/Xcode.app/Contents/Developer/usr/bin/make -f CMakeFiles/cmTC_d14f7.dir/build.make CMakeFiles/cmTC_d14f7.dir/build
+Building C object CMakeFiles/cmTC_d14f7.dir/OpenMPTryFlag.c.o
+/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc   -Wall -Werror -fopenmp=libiomp5 -v   -o CMakeFiles/cmTC_d14f7.dir/OpenMPTryFlag.c.o   -c /Users/vladislavdevlikamov/desktop/laba/pp_2019_autumn/build/CMakeFiles/FindOpenMP/OpenMPTryFlag.c
+Apple clang version 11.0.0 (clang-1100.0.33.12)
+Target: x86_64-apple-darwin18.7.0
+Thread model: posix
+InstalledDir: /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin
+Found CUDA installation: /usr/local/cuda, version unknown
+clang: error: unsupported argument 'libiomp5' to option 'fopenmp='
+make[2]: *** [CMakeFiles/cmTC_d14f7.dir/OpenMPTryFlag.c.o] Error 1
+make[1]: *** [cmTC_d14f7/fast] Error 2
+
+
+
+Detecting C OpenMP failed with the following output:
+Change Dir: /Users/vladislavdevlikamov/desktop/laba/pp_2019_autumn/build/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/usr/bin/make cmTC_e5062/fast && /Applications/Xcode.app/Contents/Developer/usr/bin/make -f CMakeFiles/cmTC_e5062.dir/build.make CMakeFiles/cmTC_e5062.dir/build
+Building C object CMakeFiles/cmTC_e5062.dir/OpenMPTryFlag.c.o
+/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc   -Wall -Werror -fopenmp -v   -o CMakeFiles/cmTC_e5062.dir/OpenMPTryFlag.c.o   -c /Users/vladislavdevlikamov/desktop/laba/pp_2019_autumn/build/CMakeFiles/FindOpenMP/OpenMPTryFlag.c
+Apple clang version 11.0.0 (clang-1100.0.33.12)
+Target: x86_64-apple-darwin18.7.0
+Thread model: posix
+InstalledDir: /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin
+Found CUDA installation: /usr/local/cuda, version unknown
+clang: error: unsupported option '-fopenmp'
+make[2]: *** [CMakeFiles/cmTC_e5062.dir/OpenMPTryFlag.c.o] Error 1
+make[1]: *** [cmTC_e5062/fast] Error 2
+
+
+
+Detecting CXX OpenMP failed with the following output:
+Change Dir: /Users/vladislavdevlikamov/desktop/laba/pp_2019_autumn/build/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/usr/bin/make cmTC_a0223/fast && /Applications/Xcode.app/Contents/Developer/usr/bin/make -f CMakeFiles/cmTC_a0223.dir/build.make CMakeFiles/cmTC_a0223.dir/build
+Building CXX object CMakeFiles/cmTC_a0223.dir/OpenMPTryFlag.cpp.o
+/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++    -Wall -Werror -fopenmp=libomp -v   -o CMakeFiles/cmTC_a0223.dir/OpenMPTryFlag.cpp.o -c /Users/vladislavdevlikamov/desktop/laba/pp_2019_autumn/build/CMakeFiles/FindOpenMP/OpenMPTryFlag.cpp
+Apple clang version 11.0.0 (clang-1100.0.33.12)
+Target: x86_64-apple-darwin18.7.0
+Thread model: posix
+InstalledDir: /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin
+Found CUDA installation: /usr/local/cuda, version unknown
+clang: error: unsupported argument 'libomp' to option 'fopenmp='
+make[2]: *** [CMakeFiles/cmTC_a0223.dir/OpenMPTryFlag.cpp.o] Error 1
+make[1]: *** [cmTC_a0223/fast] Error 2
+
+
+
+Detecting CXX OpenMP failed with the following output:
+Change Dir: /Users/vladislavdevlikamov/desktop/laba/pp_2019_autumn/build/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/usr/bin/make cmTC_2e391/fast && /Applications/Xcode.app/Contents/Developer/usr/bin/make -f CMakeFiles/cmTC_2e391.dir/build.make CMakeFiles/cmTC_2e391.dir/build
+Building CXX object CMakeFiles/cmTC_2e391.dir/OpenMPTryFlag.cpp.o
+/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++    -Wall -Werror -fopenmp=libiomp5 -v   -o CMakeFiles/cmTC_2e391.dir/OpenMPTryFlag.cpp.o -c /Users/vladislavdevlikamov/desktop/laba/pp_2019_autumn/build/CMakeFiles/FindOpenMP/OpenMPTryFlag.cpp
+Apple clang version 11.0.0 (clang-1100.0.33.12)
+Target: x86_64-apple-darwin18.7.0
+Thread model: posix
+InstalledDir: /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin
+Found CUDA installation: /usr/local/cuda, version unknown
+clang: error: unsupported argument 'libiomp5' to option 'fopenmp='
+make[2]: *** [CMakeFiles/cmTC_2e391.dir/OpenMPTryFlag.cpp.o] Error 1
+make[1]: *** [cmTC_2e391/fast] Error 2
+
+
+
+Detecting CXX OpenMP failed with the following output:
+Change Dir: /Users/vladislavdevlikamov/desktop/laba/pp_2019_autumn/build/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/usr/bin/make cmTC_136e8/fast && /Applications/Xcode.app/Contents/Developer/usr/bin/make -f CMakeFiles/cmTC_136e8.dir/build.make CMakeFiles/cmTC_136e8.dir/build
+Building CXX object CMakeFiles/cmTC_136e8.dir/OpenMPTryFlag.cpp.o
+/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++    -Wall -Werror -fopenmp -v   -o CMakeFiles/cmTC_136e8.dir/OpenMPTryFlag.cpp.o -c /Users/vladislavdevlikamov/desktop/laba/pp_2019_autumn/build/CMakeFiles/FindOpenMP/OpenMPTryFlag.cpp
+Apple clang version 11.0.0 (clang-1100.0.33.12)
+Target: x86_64-apple-darwin18.7.0
+Thread model: posix
+InstalledDir: /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin
+Found CUDA installation: /usr/local/cuda, version unknown
+clang: error: unsupported option '-fopenmp'
+make[2]: *** [CMakeFiles/cmTC_136e8.dir/OpenMPTryFlag.cpp.o] Error 1
+make[1]: *** [cmTC_136e8/fast] Error 2
+
+
+
+Detecting C OpenMP failed with the following output:
+Change Dir: /Users/vladislavdevlikamov/desktop/laba/pp_2019_autumn/build/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/usr/bin/make cmTC_1f1e7/fast && /Applications/Xcode.app/Contents/Developer/usr/bin/make -f CMakeFiles/cmTC_1f1e7.dir/build.make CMakeFiles/cmTC_1f1e7.dir/build
+Building C object CMakeFiles/cmTC_1f1e7.dir/OpenMPTryFlag.c.o
+/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc   -Wall -Werror -fopenmp=libomp -v   -o CMakeFiles/cmTC_1f1e7.dir/OpenMPTryFlag.c.o   -c /Users/vladislavdevlikamov/desktop/laba/pp_2019_autumn/build/CMakeFiles/FindOpenMP/OpenMPTryFlag.c
+Apple clang version 11.0.0 (clang-1100.0.33.12)
+Target: x86_64-apple-darwin18.7.0
+Thread model: posix
+InstalledDir: /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin
+Found CUDA installation: /usr/local/cuda, version unknown
+clang: error: unsupported argument 'libomp' to option 'fopenmp='
+make[2]: *** [CMakeFiles/cmTC_1f1e7.dir/OpenMPTryFlag.c.o] Error 1
+make[1]: *** [cmTC_1f1e7/fast] Error 2
+
+
+
+Detecting C OpenMP failed with the following output:
+Change Dir: /Users/vladislavdevlikamov/desktop/laba/pp_2019_autumn/build/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/usr/bin/make cmTC_dc9c7/fast && /Applications/Xcode.app/Contents/Developer/usr/bin/make -f CMakeFiles/cmTC_dc9c7.dir/build.make CMakeFiles/cmTC_dc9c7.dir/build
+Building C object CMakeFiles/cmTC_dc9c7.dir/OpenMPTryFlag.c.o
+/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc   -Wall -Werror -fopenmp=libiomp5 -v   -o CMakeFiles/cmTC_dc9c7.dir/OpenMPTryFlag.c.o   -c /Users/vladislavdevlikamov/desktop/laba/pp_2019_autumn/build/CMakeFiles/FindOpenMP/OpenMPTryFlag.c
+Apple clang version 11.0.0 (clang-1100.0.33.12)
+Target: x86_64-apple-darwin18.7.0
+Thread model: posix
+InstalledDir: /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin
+Found CUDA installation: /usr/local/cuda, version unknown
+clang: error: unsupported argument 'libiomp5' to option 'fopenmp='
+make[2]: *** [CMakeFiles/cmTC_dc9c7.dir/OpenMPTryFlag.c.o] Error 1
+make[1]: *** [cmTC_dc9c7/fast] Error 2
+
+
+
+Detecting C OpenMP failed with the following output:
+Change Dir: /Users/vladislavdevlikamov/desktop/laba/pp_2019_autumn/build/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/usr/bin/make cmTC_e7f27/fast && /Applications/Xcode.app/Contents/Developer/usr/bin/make -f CMakeFiles/cmTC_e7f27.dir/build.make CMakeFiles/cmTC_e7f27.dir/build
+Building C object CMakeFiles/cmTC_e7f27.dir/OpenMPTryFlag.c.o
+/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc   -Wall -Werror -fopenmp -v   -o CMakeFiles/cmTC_e7f27.dir/OpenMPTryFlag.c.o   -c /Users/vladislavdevlikamov/desktop/laba/pp_2019_autumn/build/CMakeFiles/FindOpenMP/OpenMPTryFlag.c
+Apple clang version 11.0.0 (clang-1100.0.33.12)
+Target: x86_64-apple-darwin18.7.0
+Thread model: posix
+InstalledDir: /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin
+Found CUDA installation: /usr/local/cuda, version unknown
+clang: error: unsupported option '-fopenmp'
+make[2]: *** [CMakeFiles/cmTC_e7f27.dir/OpenMPTryFlag.c.o] Error 1
+make[1]: *** [cmTC_e7f27/fast] Error 2
+
+
+
+Detecting CXX OpenMP failed with the following output:
+Change Dir: /Users/vladislavdevlikamov/desktop/laba/pp_2019_autumn/build/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/usr/bin/make cmTC_376fd/fast && /Applications/Xcode.app/Contents/Developer/usr/bin/make -f CMakeFiles/cmTC_376fd.dir/build.make CMakeFiles/cmTC_376fd.dir/build
+Building CXX object CMakeFiles/cmTC_376fd.dir/OpenMPTryFlag.cpp.o
+/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++    -Wall -Werror -fopenmp=libomp -v   -o CMakeFiles/cmTC_376fd.dir/OpenMPTryFlag.cpp.o -c /Users/vladislavdevlikamov/desktop/laba/pp_2019_autumn/build/CMakeFiles/FindOpenMP/OpenMPTryFlag.cpp
+Apple clang version 11.0.0 (clang-1100.0.33.12)
+Target: x86_64-apple-darwin18.7.0
+Thread model: posix
+InstalledDir: /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin
+Found CUDA installation: /usr/local/cuda, version unknown
+clang: error: unsupported argument 'libomp' to option 'fopenmp='
+make[2]: *** [CMakeFiles/cmTC_376fd.dir/OpenMPTryFlag.cpp.o] Error 1
+make[1]: *** [cmTC_376fd/fast] Error 2
+
+
+
+Detecting CXX OpenMP failed with the following output:
+Change Dir: /Users/vladislavdevlikamov/desktop/laba/pp_2019_autumn/build/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/usr/bin/make cmTC_80d4f/fast && /Applications/Xcode.app/Contents/Developer/usr/bin/make -f CMakeFiles/cmTC_80d4f.dir/build.make CMakeFiles/cmTC_80d4f.dir/build
+Building CXX object CMakeFiles/cmTC_80d4f.dir/OpenMPTryFlag.cpp.o
+/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++    -Wall -Werror -fopenmp=libiomp5 -v   -o CMakeFiles/cmTC_80d4f.dir/OpenMPTryFlag.cpp.o -c /Users/vladislavdevlikamov/desktop/laba/pp_2019_autumn/build/CMakeFiles/FindOpenMP/OpenMPTryFlag.cpp
+Apple clang version 11.0.0 (clang-1100.0.33.12)
+Target: x86_64-apple-darwin18.7.0
+Thread model: posix
+InstalledDir: /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin
+Found CUDA installation: /usr/local/cuda, version unknown
+clang: error: unsupported argument 'libiomp5' to option 'fopenmp='
+make[2]: *** [CMakeFiles/cmTC_80d4f.dir/OpenMPTryFlag.cpp.o] Error 1
+make[1]: *** [cmTC_80d4f/fast] Error 2
+
+
+
+Detecting CXX OpenMP failed with the following output:
+Change Dir: /Users/vladislavdevlikamov/desktop/laba/pp_2019_autumn/build/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/usr/bin/make cmTC_213ef/fast && /Applications/Xcode.app/Contents/Developer/usr/bin/make -f CMakeFiles/cmTC_213ef.dir/build.make CMakeFiles/cmTC_213ef.dir/build
+Building CXX object CMakeFiles/cmTC_213ef.dir/OpenMPTryFlag.cpp.o
+/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++    -Wall -Werror -fopenmp -v   -o CMakeFiles/cmTC_213ef.dir/OpenMPTryFlag.cpp.o -c /Users/vladislavdevlikamov/desktop/laba/pp_2019_autumn/build/CMakeFiles/FindOpenMP/OpenMPTryFlag.cpp
+Apple clang version 11.0.0 (clang-1100.0.33.12)
+Target: x86_64-apple-darwin18.7.0
+Thread model: posix
+InstalledDir: /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin
+Found CUDA installation: /usr/local/cuda, version unknown
+clang: error: unsupported option '-fopenmp'
+make[2]: *** [CMakeFiles/cmTC_213ef.dir/OpenMPTryFlag.cpp.o] Error 1
+make[1]: *** [cmTC_213ef/fast] Error 2
+
+
+
